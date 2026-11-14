@@ -1,0 +1,2 @@
+{{ $type := .Get 0 | default "verse" }}
+<div class="lyrics-block {{ $type }}">{{ .Inner | strings.TrimSpace }}</div>

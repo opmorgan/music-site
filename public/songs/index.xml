@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songs on My New Hugo Site</title>
+    <link>http://localhost:1313/songs/</link>
+    <description>Recent content in Songs on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2026 12:55:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/songs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m Thinking Tonight of my Blue Eyes</title>
+      <link>http://localhost:1313/songs/blue-eyes/</link>
+      <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
+      <guid>http://localhost:1313/songs/blue-eyes/</guid>
+      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;‘Twould been better for us both had we never&#xA;In this wide and wicked world had never met,&#xA;But the pleasure we both seemed to gather&#xA;I’m sure, love, I never will forget&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;Oh, I’m thinking tonight of my blue eyes&#xA;Who is sailing far over the sea&#xA;I’m thinking tonight of him only&#xA;And I wonder if he ever thinks of me&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;Oh, you told me once, dear, that you loved me;&#xA;You vowed that we never would part&#xA;But a link in the chain has been broken&#xA;Leaving me with a sad and aching heart&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;When the cold, cold grave shall enclose me&#xA;Will you come near and shed just one tear?&#xA;Will you say to the strangers around you&#xA;A poor heart you have broken lies here?&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
