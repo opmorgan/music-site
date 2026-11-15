@@ -5,11 +5,16 @@ theme = 'music'
 enableGitInfo = true
 
 [[menus.main]]
-name = 'Songs'
+name = 'Browse'
 pageRef = '/songs'
 weight = 10
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+name = 'Learn'
+pageRef = '/tags/to-learn'
 weight = 20
+
+[[menus.main]]
+name = 'Review'
+pageRef = '/tags/to-review'
+weight = 30

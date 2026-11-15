@@ -5,14 +5,15 @@ draft: true
 source: ""
 as performed by: ""
 added by: ""
-tags: ""
+notes: ""
+tags: []
 ---
 
-{{ "{{< verse >}}" }}
+{{ "{{< lyric verse >}}" }}
 First verse line
 Second verse line
-{{ "{{< /verse >}}" }}
-{{ "{{< chorus >}}" }}
+{{ "{{< /lyric >}}" }}
+{{ "{{< lyric chorus >}}" }}
 Chorus line
 Chorus line
-{{ "{{< /chorus >}}" }}
+{{ "{{< /lyric >}}" }}

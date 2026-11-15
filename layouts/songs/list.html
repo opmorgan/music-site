@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .RegularPages.ByTitle }}
+    {{ partial "song-preview.html" . }}
+  {{ end }}
+{{ end }}

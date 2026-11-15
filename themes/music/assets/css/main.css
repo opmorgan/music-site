@@ -19,6 +19,9 @@ body {
   margin: 0 auto;
   font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 18px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 body > header {
@@ -31,9 +34,38 @@ body > header {
 body > footer {
   border-top: 1px solid var(--line-gray);
   margin-top: 2rem;
+  text-align: center;
+  color: var(--text-light-gray);
 }
 
-.navbar,
+body > main {
+  flex: 1;
+}
+
+body > footer {
+  border-top: 1px solid var(--line-gray);
+  margin-top: 2rem;
+  min-height: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--text-light-gray);
+}
+
+body > footer p {
+  margin: 0;
+}
+
+.navbar {
+  box-sizing: border-box;
+  max-width: 674px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+/* .navbar, */
 body > main,
 body > footer > * {
   box-sizing: border-box;
@@ -44,6 +76,13 @@ body > footer > * {
   padding-right: 1rem;
 }
 
+main > h1 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid var(--line-gray);
+}
+
 a {
     color: var(--text-red);
     text-decoration: none;
@@ -51,6 +90,7 @@ a {
 
 a:hover {
     text-decoration: underline;
+    text-underline-offset: 2px;
 }
 
 @font-face {
@@ -195,8 +235,15 @@ h2 { font-size: 1.2rem; }
 
 
 /* ---------- Mobile ---------- */
-@media (max-width: 500px) {
-  .navbar { gap: 0.75rem; }
+@media (min-width: 561px) {
+  body > main,
+  body > footer > * {
+    min-width: 500px;
+  }
+}
+
+@media (max-width: 560px) {
+  .navbar { gap: 0.75rem; position: relative; }
   .menu-button-container {
     display: block;
     position: relative;
@@ -226,41 +273,47 @@ h2 { font-size: 1.2rem; }
     top: 100%;
     left: 0;
     right: 0;
-    background: var(--background);
+    background: var(--background-accent);
     border-bottom: 1px solid var(--line-gray);
   }
   #menu-toggle:checked ~ nav { display: block; }
   .navbar nav ul { flex-direction: column; gap: 0; }
-  .navbar nav a { display: block; padding: 0.8rem 0.5rem; }
+  .navbar nav a { display: block; padding: 0.8rem 1rem; text-align: right; }
 }
+
 
 /* Song preview */
 .song-preview {
   margin: 0 0 1rem;
 }
+
+.song-preview a,
+.song-preview__line {
+  display: block;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+
 .song-preview a {
   color: var(--text-red);
 }
+
 .song-preview__line {
-  display: block;
-  margin-top: 0rem;
+  margin-top: 0;
   font-size: 0.85rem;
   color: var(--text-light-gray);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 /* Home page */
-.home-section + .home-section {
-  border-top: 1px solid var(--line-gray);
-  margin-top: 2rem;
-  padding-top: 1.5rem;
+.home-section {
+  margin-bottom: 3rem;
 }
-
 .home-section h2 {
   margin-top: 0;
-  text-align: center;
+  margin-bottom: 0.75rem;
+  padding-bottom: .2rem;
+  text-align: left;
+  border-bottom: 1px solid var(--line-gray);
 }
 
 .home-section h2 a {
@@ -272,4 +325,12 @@ h2 { font-size: 1.2rem; }
   text-decoration: underline;
   text-underline-offset: 2px;
   text-decoration-thickness: 1px;
+}
+
+/* Song single view */
+.song-updated {
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--text-light-gray);
 }

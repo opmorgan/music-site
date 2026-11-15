@@ -3,8 +3,8 @@
 
   {{ $groups := slice
     (dict "title" "Featured songs" "slug" "featured")
-    (dict "title" "Songs to Learn" "slug" "to-learn")
-    (dict "title" "Songs to Review" "slug" "to-review")
+    (dict "title" "Songs to learn" "slug" "to-learn")
+    (dict "title" "Songs to review" "slug" "to-review")
   }}
 
   {{ range $groups }}
@@ -16,7 +16,7 @@
           <p class="song-preview">
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
             {{ with .Plain | strings.TrimSpace }}
-              <span class="song-preview__line">{{ index (split . "\n") 0 }}</span>
+              <span class="song-preview__line">{{ . | truncate 70 "..." }}</span>
             {{ end }}
           </p>
         {{ end }}
