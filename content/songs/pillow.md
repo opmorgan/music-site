@@ -1,5 +1,5 @@
 ---
-title: "Send Me the Pillow That Tou Dream On"
+title: "Send Me the Pillow That You Dream On"
 date: 2026-11-15T03:19:00-05:00
 draft: false
 source: ""

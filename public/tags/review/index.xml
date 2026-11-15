@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Songs to review on Lyrics</title><link>https://example.org/tags/review/</link><description>Recent content in Songs to review on Lyrics</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 15 Nov 2026 03:22:50 -0500</lastBuildDate><atom:link href="https://example.org/tags/review/index.xml" rel="self" type="application/rss+xml"/><item><title>All About You</title><link>https://example.org/songs/all-about-you/</link><pubDate>Sun, 15 Nov 2026 03:22:00 -0500</pubDate><guid>https://example.org/songs/all-about-you/</guid><description>&lt;div class="lyrics-block verse">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Songs to review on Lyrics</title><link>https://example.org/tags/review/</link><description>Recent content in Songs to review on Lyrics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/tags/review/index.xml" rel="self" type="application/rss+xml"/><item><title>All About You</title><link>https://example.org/songs/all-about-you/</link><pubDate>Sun, 15 Nov 2026 03:22:00 -0500</pubDate><guid>https://example.org/songs/all-about-you/</guid><description>&lt;div class="lyrics-block verse">
  &lt;span class="lyric-line">I told the daffodils&lt;/span>
  &lt;span class="lyric-line">I told the whippoorwills&lt;/span>
  &lt;span class="lyric-line">Just how pretty you smile&lt;/span>
@@ -48,23 +48,4 @@
  &lt;span class="lyric-line">Will you come near and shed just one tear?&lt;/span>
  &lt;span class="lyric-line">Will you say to the strangers around you&lt;/span>
  &lt;span class="lyric-line">A poor heart you have broken lies here?&lt;/span>
-&lt;/div></description></item><item><title>Sweet Little Mitch</title><link>https://example.org/songs/sweet-lil-mitch/</link><pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate><guid>https://example.org/songs/sweet-lil-mitch/</guid><description>&lt;div class="lyrics-block chorus">
- &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
- &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
- &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
- &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block verse">
- &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
- &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
- &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
- &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block postchorus">
- &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
- &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
- &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
- &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
 &lt;/div></description></item></channel></rss>
