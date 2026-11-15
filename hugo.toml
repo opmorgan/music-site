@@ -11,10 +11,10 @@ weight = 10
 
 [[menus.main]]
 name = 'Learn'
-pageRef = '/tags/to-learn'
+pageRef = '/tags/learn'
 weight = 20
 
 [[menus.main]]
 name = 'Review'
-pageRef = '/tags/to-review'
+pageRef = '/tags/review'
 weight = 30

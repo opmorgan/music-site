@@ -1,12 +1,13 @@
 ---
-title: "Send me the pillow that you dream on"
+title: "Send Me the Pillow That Tou Dream On"
 date: 2026-11-15T03:19:00-05:00
-draft: true
+draft: false
 source: ""
 as performed by: ""
 added by: ""
 notes: ""
-tags: []
+tags: 
+- learn
 ---
 
 {{< lyric chorus >}}

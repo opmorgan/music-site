@@ -6,9 +6,9 @@ source: ""
 as performed by: ""
 added by: "Owen Morgan"
 tags:
-  - To learn
-  - To review
-  - Featured
+  - learn
+  - review
+  - featured
 notes: ""
 ---
 

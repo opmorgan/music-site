@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All songs on Lyrics</title><link>https://example.org/songs/</link><description>Recent content in All songs on Lyrics</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 15 Nov 2026 01:49:02 -0500</lastBuildDate><atom:link href="https://example.org/songs/index.xml" rel="self" type="application/rss+xml"/><item><title>I'm Thinking Tonight of My Blue Eyes</title><link>https://example.org/songs/blue-eyes/</link><pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate><guid>https://example.org/songs/blue-eyes/</guid><description>&lt;div class="lyrics-block verse">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All songs on Lyrics</title><link>https://example.org/songs/</link><description>Recent content in All songs on Lyrics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/songs/index.xml" rel="self" type="application/rss+xml"/><item><title>All About You</title><link>https://example.org/songs/all-about-you/</link><pubDate>Sun, 15 Nov 2026 03:22:00 -0500</pubDate><guid>https://example.org/songs/all-about-you/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I told the daffodils&lt;/span>
+ &lt;span class="lyric-line">I told the whippoorwills&lt;/span>
+ &lt;span class="lyric-line">Just how pretty you smile&lt;/span>
+ &lt;span class="lyric-line">Yes, I told them all about you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I told each little bird&lt;/span>
+ &lt;span class="lyric-line">Every little single word&lt;/span>
+ &lt;span class="lyric-line">That you say is worthwhile&lt;/span>
+ &lt;span class="lyric-line">Yes, I told them all about you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I told the moon and every little star that shines above&lt;/span>
+ &lt;span class="lyric-line">About the way you roll your pretty eyes and how you love&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Each little honeybee&lt;/span>
+ &lt;span class="lyric-line">Knows there&amp;#39;s gonna be&lt;/span>
+ &lt;span class="lyric-line">A honeymoon for two&lt;/span>
+ &lt;span class="lyric-line">Yes, I told them all about you&lt;/span>
+&lt;/div></description></item><item><title>Send me the pillow that you dream on</title><link>https://example.org/songs/pillow/</link><pubDate>Sun, 15 Nov 2026 03:19:00 -0500</pubDate><guid>https://example.org/songs/pillow/</guid><description>&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Don&amp;#39;t you know that I still care for you?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Each night while I&amp;#39;m sleeping oh, so lonely&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;ll share your love in dreams that once were true&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Maybe time will let our dreams come true&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I&amp;#39;ve waited so long for you to write me&lt;/span>
+ &lt;span class="lyric-line">But just a memory&amp;#39;s all that&amp;#39;s left of you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">So I can dream on it, too&lt;/span>
+&lt;/div></description></item><item><title>I'm Thinking Tonight of My Blue Eyes</title><link>https://example.org/songs/blue-eyes/</link><pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate><guid>https://example.org/songs/blue-eyes/</guid><description>&lt;div class="lyrics-block verse">
  &lt;span class="lyric-line">‘Twould been better for us both had we never&lt;/span>
  &lt;span class="lyric-line">In this wide and wicked world had never met,&lt;/span>
  &lt;span class="lyric-line">But the pleasure we both seemed to gather&lt;/span>
