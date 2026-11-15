@@ -15,9 +15,9 @@
         {{ range .Pages.ByTitle }}
           <p class="song-preview">
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            {{ with .Plain | strings.TrimSpace }}
-              <span class="song-preview__line">{{ . | truncate 70 "..." }}</span>
-            {{ end }}
+            {{ with .Plain | htmlUnescape | strings.TrimSpace }}
+            <span class="song-preview__line">{{ . | truncate 70 "..." }}</span>
+          {{ end }}
           </p>
         {{ end }}
       </section>
