@@ -1,5 +1,11 @@
-<h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-<div class="nav-search">
-  {{ partial "search.html" . }}
+<div class="navbar">
+  <a class="navbar__logo" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+  <div class="nav-search">
+    {{ partial "search.html" . }}
+  </div>
+  <input id="menu-toggle" type="checkbox">
+  <label class="menu-button-container" for="menu-toggle" aria-label="Menu">
+    <span class="menu-button"></span>
+  </label>
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
 </div>

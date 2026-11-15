@@ -1,4 +1,14 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Lyrics'
-theme = "music"
+theme = 'music'
+
+[[menus.main]]
+name = 'Songs'
+pageRef = '/songs'
+weight = 10
+
+[[menus.main]]
+name = 'Tags'
+pageRef = '/tags'
+weight = 20

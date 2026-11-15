@@ -13,13 +13,24 @@
 </head>
 <body>
   <header>
-    <h1><a href="/">Lyrics</a></h1>
-
+    <div class="navbar">
+  <a class="navbar__logo" href="/">Lyrics</a>
+  <div class="nav-search">
+    <script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({ element: "#search", showSubResults: false, showImages: false, resetStyles: false });
+  });
+</script>
+  </div>
+  <input id="menu-toggle" type="checkbox">
+  <label class="menu-button-container" for="menu-toggle" aria-label="Menu">
+    <span class="menu-button"></span>
+  </label>
+  
   <nav>
     <ul>
-    <li>
-      <a href="/">Home</a>
-    </li>
     <li>
       <a aria-current="true" class="ancestor" href="/songs/">Songs</a>
     </li>
@@ -29,14 +40,6 @@
     </ul>
   </nav>
 
-<div class="nav-search">
-  <script src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({ element: "#search", showSubResults: true, showImages: false, resetStyles: false });
-  });
-</script>
 </div>
   </header>
   <main>
