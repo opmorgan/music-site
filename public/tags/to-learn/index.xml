@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>To Learn on Lyrics</title>
-    <link>http://localhost:1313/tags/to-learn/</link>
-    <description>Recent content in To Learn on Lyrics</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 12:55:57 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/to-learn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I&#39;m Thinking Tonight of my Blue Eyes</title>
-      <link>http://localhost:1313/songs/blue-eyes/</link>
-      <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
-      <guid>http://localhost:1313/songs/blue-eyes/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;‘Twould been better for us both had we never&#xA;In this wide and wicked world had never met,&#xA;But the pleasure we both seemed to gather&#xA;I’m sure, love, I never will forget&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;Oh, I’m thinking tonight of my blue eyes&#xA;Who is sailing far over the sea&#xA;I’m thinking tonight of him only&#xA;And I wonder if he ever thinks of me&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;Oh, you told me once, dear, that you loved me;&#xA;You vowed that we never would part&#xA;But a link in the chain has been broken&#xA;Leaving me with a sad and aching heart&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;When the cold, cold grave shall enclose me&#xA;Will you come near and shed just one tear?&#xA;Will you say to the strangers around you&#xA;A poor heart you have broken lies here?&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sweet Little Mitch</title>
-      <link>http://localhost:1313/songs/sweet-lil-mitch/</link>
-      <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
-      <guid>http://localhost:1313/songs/sweet-lil-mitch/</guid>
-      <description>&lt;div class=&#34;lyrics-block chorus&#34;&gt;Where, oh, where, is sweet little Mitch?&#xA;Where, oh, where, is sweet little Mitch?&#xA;Where, oh, where, is sweet little Mitch?&#xA;Way down yonder in the paw-paw patch!&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&#xA;He&amp;#39;s probably in the park, paddling his pickle,&#xA;He&amp;#39;s probably in the park, paddling his pickle,&#xA;Way down yonder in the paw-paw patch!&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block postchorus&#34;&gt;Come on boys, let&amp;#39;s go find him&#xA;Come on boys, let&amp;#39;s go find him&#xA;Come on boys, let&amp;#39;s go find him&#xA;Way down yonder in the paw-paw patch!&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>To Learn on Lyrics</title><link>https://example.org/tags/to-learn/</link><description>Recent content in To Learn on Lyrics</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2026 23:00:46 -0500</lastBuildDate><atom:link href="https://example.org/tags/to-learn/index.xml" rel="self" type="application/rss+xml"/><item><title>Sweet Little Mitch</title><link>https://example.org/songs/sweet-lil-mitch/</link><pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate><guid>https://example.org/songs/sweet-lil-mitch/</guid><description>&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
+ &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
+ &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
+ &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
+ &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
+ &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
+ &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block postchorus">
+ &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
+ &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
+ &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
+ &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
+&lt;/div></description></item></channel></rss>

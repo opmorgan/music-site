@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Lyrics'
 theme = 'music'
+enableGitInfo = true
 
 [[menus.main]]
 name = 'Songs'

@@ -1,8 +1,3 @@
-.lyrics-block {
-    white-space: pre-line;
-    margin: 0 0 1.5rem;
-}
-
 .lyrics-block.verse {
     font-weight: 400;
 }
@@ -15,4 +10,16 @@
     padding-left: 1.5rem;
     border-left: 1px solid #999;
     font-weight: 400;
+}
+
+.lyrics-block {
+    margin: 0 0 1.5rem;
+}
+.lyric-line {
+    display: block;
+    padding-left: 1.5em;    /* how far wrapped lines are indented */
+    text-indent: -1.5em;    /* pull the first line back to the edge */
+}
+.lyric-line:empty {
+    min-height: 1lh;        /* keep blank lines inside a block visible */
 }

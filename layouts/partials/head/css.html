@@ -1,11 +1,13 @@
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 {{- $main := resources.Get "css/main.css" }}
 {{- $lyrics := resources.Get "css/lyrics.css" }}
 {{- $css := slice $main $lyrics | resources.Concat "css/site.css" }}
 {{- if eq hugo.Environment "development" }}
+  <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{- else }}
   {{- with $css | minify | fingerprint }}
+    <link rel="preload" href="{{ .RelPermalink }}" as="style">
     <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
   {{- end }}
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
 {{- end }}

@@ -1,2 +1,6 @@
 {{ $type := .Get 0 | default "verse" }}
-<div class="lyrics-block {{ $type }}">{{ .Inner | strings.TrimSpace }}</div>
+<div class="lyrics-block {{ $type }}">
+  {{- range split (.Inner | strings.TrimSpace) "\n" }}
+  <span class="lyric-line">{{ strings.TrimSpace . }}</span>
+  {{- end }}
+</div>

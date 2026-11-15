@@ -6,7 +6,6 @@ source: ""
 as performed by: ""
 added by: ""
 tags:
-  - To learn
   - To review
 ---
 

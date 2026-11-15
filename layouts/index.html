@@ -1,0 +1,26 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  {{ $groups := slice
+    (dict "title" "Featured songs" "slug" "featured")
+    (dict "title" "Songs to Learn" "slug" "to-learn")
+    (dict "title" "Songs to Review" "slug" "to-review")
+  }}
+
+  {{ range $groups }}
+    {{ $title := .title }}
+    {{ with site.GetPage (printf "/tags/%s" .slug) }}
+    <section class="home-section">
+        <h2><a href="{{ .RelPermalink }}">{{ $title }}</a></h2>
+        {{ range .Pages.ByTitle }}
+          <p class="song-preview">
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{ with .Plain | strings.TrimSpace }}
+              <span class="song-preview__line">{{ index (split . "\n") 0 }}</span>
+            {{ end }}
+          </p>
+        {{ end }}
+      </section>
+    {{ end }}
+  {{ end }}
+{{ end }}

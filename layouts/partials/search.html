@@ -1,7 +1,7 @@
-<script src="/pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({ element: "#search", showSubResults: false, showImages: false, resetStyles: false });
-  });
-</script>
+<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+<pagefind-searchbox
+  placeholder="Search lyrics"
+  show-sub-results="false"
+  show-keyboard-hints="false"
+  hide-shortcut>
+</pagefind-searchbox>
