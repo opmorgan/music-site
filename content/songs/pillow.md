@@ -10,11 +10,8 @@ tags:
 - learn
 ---
 
-{{< lyric chorus >}}
-Send me the pillow that you dream on
-{{< /lyric >}}
-
 {{< lyric verse >}}
+Send me the pillow that you dream on
 Don't you know that I still care for you?
 {{< /lyric >}}
 
@@ -33,11 +30,8 @@ Send me the pillow that you dream on
 So darling, I can dream on it, too
 {{< /lyric >}}
 
-{{< lyric chorus >}}
-Send me the pillow that you dream on
-{{< /lyric >}}
-
 {{< lyric verse >}}
+Send me the pillow that you dream on
 Maybe time will let our dreams come true
 {{< /lyric >}}
 
@@ -54,8 +48,4 @@ But just a memory's all that's left of you
 {{< lyric chorus >}}
 Send me the pillow that you dream on
 So darling, I can dream on it, too
-{{< /lyric >}}
-
-{{< lyric chorus >}}
-So I can dream on it, too
 {{< /lyric >}}
