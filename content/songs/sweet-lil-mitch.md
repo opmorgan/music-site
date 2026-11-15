@@ -6,8 +6,6 @@ source: ""
 as performed by: ""
 added by: "Owen Morgan"
 tags:
-  - learn
-  - review
   - featured
 notes: ""
 ---
