@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lyrics.opmorgan.com/'
 languageCode = 'en-us'
 title = 'Lyrics'
 theme = 'music'
