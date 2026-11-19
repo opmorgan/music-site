@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1 class="list-header">{{ .Title }}</h1>
   {{ .Content }}
   {{ range .RegularPages.ByTitle }}
     {{ partial "song-preview.html" . }}

@@ -11,7 +11,7 @@
     {{ $title := .title }}
     {{ with site.GetPage (printf "/tags/%s" .slug) }}
     <section class="home-section">
-        <h2><a href="{{ .RelPermalink }}">{{ $title }}</a></h2>
+        <h2 class="list-header"><a href="{{ .RelPermalink }}">{{ $title }}</a></h2>
         {{ range .Pages.ByTitle }}
           <p class="song-preview">
             <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>

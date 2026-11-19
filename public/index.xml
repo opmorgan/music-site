@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lyrics</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:56407/</link>
     <description>Recent content on Lyrics</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Nov 2026 04:53:16 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56407/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All About You</title>
-      <link>http://localhost:1313/songs/all-about-you/</link>
+      <link>http://localhost:56407/songs/all-about-you/</link>
       <pubDate>Sun, 15 Nov 2026 03:22:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/all-about-you/</guid>
+      <guid>http://localhost:56407/songs/all-about-you/</guid>
       <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told the daffodils&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told the whippoorwills&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Just how pretty you smile&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I told them all about you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told each little bird&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Every little single word&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That you say is worthwhile&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I told them all about you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told the moon and every little star that shines above&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;About the way you roll your pretty eyes and how you love&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Each little honeybee&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Knows there&amp;#39;s gonna be&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;A honeymoon for two&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I told them all about you&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Send Me the Pillow That You Dream On</title>
-      <link>http://localhost:1313/songs/pillow/</link>
+      <link>http://localhost:56407/songs/pillow/</link>
       <pubDate>Sun, 15 Nov 2026 03:19:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/pillow/</guid>
+      <guid>http://localhost:56407/songs/pillow/</guid>
       <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Don&amp;#39;t you know that I still care for you?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Each night while I&amp;#39;m sleeping oh, so lonely&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ll share your love in dreams that once were true&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Maybe time will let our dreams come true&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ve waited so long for you to write me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But just a memory&amp;#39;s all that&amp;#39;s left of you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>I&#39;m Thinking Tonight of My Blue Eyes</title>
-      <link>http://localhost:1313/songs/blue-eyes/</link>
+      <link>http://localhost:56407/songs/blue-eyes/</link>
       <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
-      <guid>http://localhost:1313/songs/blue-eyes/</guid>
+      <guid>http://localhost:56407/songs/blue-eyes/</guid>
       <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;‘Twould been better for us both had we never&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In this wide and wicked world had never met,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But the pleasure we both seemed to gather&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m sure, love, I never will forget&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, I’m thinking tonight of my blue eyes&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Who is sailing far over the sea&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m thinking tonight of him only&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I wonder if he ever thinks of me&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, you told me once, dear, that you loved me;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;You vowed that we never would part&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But a link in the chain has been broken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Leaving me with a sad and aching heart&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When the cold, cold grave shall enclose me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will you come near and shed just one tear?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will you say to the strangers around you&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;A poor heart you have broken lies here?&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sweet Little Mitch</title>
-      <link>http://localhost:1313/songs/sweet-lil-mitch/</link>
+      <link>http://localhost:56407/songs/sweet-lil-mitch/</link>
       <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
-      <guid>http://localhost:1313/songs/sweet-lil-mitch/</guid>
+      <guid>http://localhost:56407/songs/sweet-lil-mitch/</guid>
       <description>&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where, oh, where, is sweet little Mitch?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where, oh, where, is sweet little Mitch?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where, oh, where, is sweet little Mitch?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Way down yonder in the paw-paw patch!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Way down yonder in the paw-paw patch!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block postchorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come on boys, let&amp;#39;s go find him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come on boys, let&amp;#39;s go find him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come on boys, let&amp;#39;s go find him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Way down yonder in the paw-paw patch!&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>

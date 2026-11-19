@@ -77,11 +77,17 @@ body > footer > * {
   padding-right: 1rem;
 }
 
-main h1 {
+h1.list-header {
   margin-top: 0;
   margin-bottom: 0.75rem;
   padding-bottom: 0.2rem;
   border-bottom: 1px solid var(--line-gray);
+}
+
+h1.song-title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.2rem;
 }
 
 a {
