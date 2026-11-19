@@ -7,7 +7,6 @@ as performed by: ""
 added by: ""
 notes: ""
 tags:
-- learn
 ---
 
 {{< lyric verse >}}

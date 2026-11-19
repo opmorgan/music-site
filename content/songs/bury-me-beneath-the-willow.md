@@ -28,7 +28,7 @@ And perhaps she’ll weep for me
 She told me that she dearly loved me
 How could I believe it untrue
 Until the angels softly whispered
-She will prove untrue to you
+She could never love you
 {{< /lyric >}}
 
 {{< lyric chorus >}}

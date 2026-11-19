@@ -8,7 +8,6 @@
 # Exit on error or undefined variables
 set -eu
 
-set -eu
 ENV_FILE=".env"
 if [ "${1:-}" = "--dev" ]; then
   ENV_FILE=".env.dev"

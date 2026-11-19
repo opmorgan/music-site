@@ -6,14 +6,13 @@ A site for song lyrics.
 
 ## Build and preview
 
-### Quick preview
-
 ```bash
+hugo --cleanDestinationDir --minify
+npx pagefind --site public --output-path static/pagefind
 hugo server
 ```
 
-### Rebuild search index
-
+or:
 ```bash
 hugo --cleanDestinationDir --minify
 npx pagefind --site public

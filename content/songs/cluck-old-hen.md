@@ -7,7 +7,7 @@ as performed by: "Kay Brothers"
 added by: ""
 notes: ""
 tags:
-- learn
+- review
 ---
 
 {{< lyric verse >}}

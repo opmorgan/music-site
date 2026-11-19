@@ -3,12 +3,4 @@
   <h1 class="song-title">{{ .Title }}</h1>
   {{ .Content }}
 </div>
-  <!-- {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }} -->
-  <!-- <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time> -->
-  <!-- <p class="song-updated">
-    Added
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    {{ with index .Params "added by" }} by {{ . }}{{ end }}
-  </p> -->
 {{ end }}

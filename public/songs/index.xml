@@ -1,179 +1,1105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>All songs on Lyrics</title>
-    <link>http://localhost:1313/songs/</link>
-    <description>Recent content in All songs on Lyrics</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/songs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cluck Old Hen</title>
-      <link>http://localhost:1313/songs/cluck-old-hen/</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/cluck-old-hen/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;This old hen&amp;#39;s a good old hen&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lays some eggs for the railroad men&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Sometimes 8 and sometimes ten&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That&amp;#39;s enough for the railroad men&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block prechorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old chicken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and sing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;You ain&amp;#39;t laid an egg since late last spring&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and squall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Ain&amp;#39;t laid an egg since late last fall&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My little hen, she had a wooden leg&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Best darn hen that ever laid an egg&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Laid more eggs than any hen around the barn&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Another little drink wouldn&amp;#39;t do me any harm&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block prechorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old chicken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and sing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;You ain&amp;#39;t laid an egg since late last spring&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and squall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Ain&amp;#39;t laid an egg since late last fall&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My old hen, she won&amp;#39;t do,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She lays eggs and taters too!&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Last time she cackled, cackled in the lot&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Next time she cackles, she&amp;#39;ll cackle in the pot!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block prechorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old chicken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and sing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;You ain&amp;#39;t laid an egg since late last spring&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and squall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Ain&amp;#39;t laid an egg since late last fall&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;This old hen&amp;#39;s a good old hen&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lays some eggs for the railroad men&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Sometimes one and sometimes two&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That&amp;#39;s enough for the holdup crew&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block prechorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old chicken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and sing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;You ain&amp;#39;t laid an egg since late last spring&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cluck old hen cluck and squall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Ain&amp;#39;t laid an egg since late last fall&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Greensleeves</title>
-      <link>http://localhost:1313/songs/greensleeves/</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/greensleeves/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Alas, my love, you do me wrong&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;To cast me off discourteously&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For I have loved you well so long&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Delighting in your company&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Greensleeves was all my joy&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Greensleeves was my delight&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Greensleeves, my heart of gold&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And who but my Lady Greensleeves&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I will pray to God on high&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That thou my constancy may see&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And that yet once before I die&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Thou wilt vouchsafe to love me&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Greensleeves was all my joy&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Greensleeves was my delight&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Greensleeves, my heart of gold&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And who but my Lady Greensleeves&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Loch Lomond</title>
-      <link>http://localhost:1313/songs/loch-lomond/</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/loch-lomond/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;By yon bonnie banks and by yon bonnie braes,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the sun shines bright on Loch Lomond,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where me and my true love were ever wont to gae,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;O ye&amp;#39;ll tak&amp;#39; the high road, and I&amp;#39;ll tak&amp;#39; the low road,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I&amp;#39;ll be in Scotland afore ye,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But me and my true love will never meet again,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#39;Twas there that we parted, in yon shady glen,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On the steep, steep side o&amp;#39; Ben Lomond,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where in soft purple hue, the highland hills we view,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And the moon coming out in the gloaming.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;O ye&amp;#39;ll tak&amp;#39; the high road, and I&amp;#39;ll tak&amp;#39; the low road,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I&amp;#39;ll be in Scotland afore ye,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But me and my true love will never meet again,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The wee birdies sing and the wildflowers spring,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And in sunshine the waters are sleeping.&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But the broken heart it kens nae second spring again,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Though the waeful may cease frae their grieving.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;O ye&amp;#39;ll tak&amp;#39; the high road, and I&amp;#39;ll tak&amp;#39; the low road,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I&amp;#39;ll be in Scotland afore ye,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But me and my true love will never meet again,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>What Child is This</title>
-      <link>http://localhost:1313/songs/what-child-is-this/</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/what-child-is-this/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;What Child is this who, laid to rest&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On Mary&amp;#39;s lap, is sleeping?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whom angels greet with anthems sweet&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;While the good shepherds watch are keeping?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So bring Him incense, gold and myrrh&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come peasant, king to own Him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The King of kings salvation brings&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Let loving hearts enthrone Him&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;This, this is Christ the King&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whom shepherds guard and angels sing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Haste, haste, to bring Him laud&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The Babe, the Son of Mary&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Raise, oh raise, the song on high&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;His mother sings her lullaby&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Joy, oh joy, for Christ is born&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The Babe, the Son of Mary&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Where the Soul of Man Never Dies</title>
-      <link>http://localhost:1313/songs/where-the-soul-of-man-never-dies/</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/where-the-soul-of-man-never-dies/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;To Canaan&amp;#39;s land I&amp;#39;m on my way&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the soul (of man) never dies&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My darkest night will turn to day&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the soul (of man) never dies&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Dear friends there&amp;#39;ll be no sad farewells&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;ll be no tear dimmed eyes&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where all is peace and joy and love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And the soul of man never dies&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The rose is blooming there for me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the soul (of man) never dies&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I will spend eternity&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the soul (of man) never dies&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Dear friends there&amp;#39;ll be no sad farewells&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;ll be no tear dimmed eyes&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where all is peace and joy and love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And the soul of man never dies&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The love light beams across the foam&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the soul (of man) never dies&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;It shines and lights the way to home&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where the soul (of man) never dies&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Dear friends there&amp;#39;ll be no sad farewells&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;ll be no tear dimmed eyes&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where all is peace and joy and love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And the soul of man never dies&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Auld Lang Syne</title>
-      <link>http://localhost:1313/songs/auld-lang-syne/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/auld-lang-syne/</guid>
-      <description>&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Should old acquaintance be forgot&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And never brought to mind?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Should old acquaintance be forgot&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the days of auld lang syne?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For auld lang syne, my dear&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For auld lang syne&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We&amp;#39;ll drink a cup of kindness yet&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For the sake of auld lang syne&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And surely, you will buy your cup&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And surely, I&amp;#39;ll buy mine!&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We&amp;#39;ll take a cup of kindness yet&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For the sake of auld lang syne&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We two who&amp;#39;ve paddled in the stream&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;From morning sun &amp;#39;til night&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The seas between us roared and swelled&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Since the days of auld lang syne&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For old acquaintance be forgot&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And never brought to mind&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Should old acquaintance be forgot&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For the sake of auld lang syne?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For auld lang syne, my dear&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For auld lang syne&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We&amp;#39;ll drink a cup of kindness yet&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For the sake of auld lang syne&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Bury Me Beneath the Willow</title>
-      <link>http://localhost:1313/songs/bury-me-beneath-the-willow/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/bury-me-beneath-the-willow/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My heart is sad I am lonely&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For the only one I love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When shall I see her oh no never&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;‘Til we meet in heaven above&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, bury me beneath the willow&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Under the weeping willow tree&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So she will know where I am sleeping&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And perhaps she’ll weep for me&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She told me that she dearly loved me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;How could I believe it untrue&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Until the angels softly whispered&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She will prove untrue to you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, bury me beneath the willow&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Under the weeping willow tree&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So she will know where I am sleeping&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And perhaps she’ll weep for me&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Tomorrow was to be our wedding&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;God oh God where can she be&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She’s out a courting with another&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And no longer cares for me&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, bury me beneath the willow&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Under the weeping willow tree&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So she will know where I am sleeping&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And perhaps she’ll weep for me&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Dream of the Miner&#39;s Child</title>
-      <link>http://localhost:1313/songs/dream-of-the-miners-child/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/dream-of-the-miners-child/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;A miner was leaving his home for his work&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When he heard his little child scream&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He went to the side of the little girl&amp;#39;s bed&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She said, &amp;#34;Daddy, I&amp;#39;ve had such a dream!&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Oh, daddy, don&amp;#39;t go to the mines today&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For dreams have so often come true&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My daddy, my daddy, please don&amp;#39;t go away&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For I never could live without you&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Then smiling and stroking the little girl&amp;#39;s face&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He was turning away from her side&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But she threw her small arms around daddy&amp;#39;s neck&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She gave him a kiss and then cried:&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Oh, I dreamed that the mines were all flaming with fire&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And the men all fought for their lives&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Just then the scene changed, and the mouth of the mines&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Was covered with sweethearts and wives&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Oh, daddy, don&amp;#39;t go to the mines today&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For dreams have so often come true&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My daddy, my daddy, please don&amp;#39;t go away&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For I never could live without you&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Go down to the village and tell your dear friends&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That sure as the bright stars do shine&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There’s something that&amp;#39;s going to happen today&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Please, daddy, don&amp;#39;t go to the mines&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Oh, daddy, don&amp;#39;t go to the mines today&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For dreams have so often come true&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My daddy, my daddy, please don&amp;#39;t go away&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For I never could live without you&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>I Wish I Was a Mole in the Ground</title>
-      <link>http://localhost:1313/songs/i-wish-i-was-a-mole-in-the-ground/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/i-wish-i-was-a-mole-in-the-ground/</guid>
-      <description>&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I wish I was a mole in the ground&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If I&amp;#39;m a mole in the ground I would root that mountain down&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I wish I was a mole in the ground&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, Tippy wants a nine dollar shawl&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, Tippy wants a nine dollar shawl&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When I come o&amp;#39;er the hill with a forty dollar bill&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Baby, where you been so long?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I been in the bend so long&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I been in the bend so long&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I been in the bend with the rough and rowdy men&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Baby, where you been so long?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, I don&amp;#39;t like a railroad man&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;No, I don&amp;#39;t like a railroad man&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If I&amp;#39;m a railroad man they&amp;#39;ll kill you when he can&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Drink up your blood like wine&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, I wish I was a lizard in the spring&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I wish I was a lizard in the spring&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If I&amp;#39;m a lizard in the spring I&amp;#39;d hear my darlin&amp;#39; sing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I wish I was a lizard in the spring&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh Capie, let your hair roll down&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Capie, let your hair roll down&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Let your hair roll down and your bangs curl around&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh Capie, let your hair roll down&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I wish I was a mole in the ground&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I wish I was a mole in the ground&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If I&amp;#39;m a mole in the ground I&amp;#39;d root that mountain down&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I wish I was a mole in the ground&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>In Heaven We&#39;ll Never Grow Old</title>
-      <link>http://localhost:1313/songs/in-heaven-well-never-grow-old/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/in-heaven-well-never-grow-old/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the bible we read of a city&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;With streets that are paved with pure gold&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We will live in that city, forever&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there we shall never grow old.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In heaven we&amp;#39;ll never grow old&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In heaven we&amp;#39;ll never grow old&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We will live in that city, forever&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there we shall never grow old.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the bible we read of a river&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That runs by the throne, we are told&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We will drink of the life-giving waters&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there we shall never grow old.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In heaven we&amp;#39;ll never grow old&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In heaven we&amp;#39;ll never grow old&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We will live in that city, forever&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there we shall never grow old.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Then we read of the earth&amp;#39;s weary pilgrims&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Who have lived here through hunger and cold&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;They&amp;#39;ve at last reached their harbor in safety&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there we shall never grow old.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In heaven we&amp;#39;ll never grow old&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In heaven we&amp;#39;ll never grow old&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We will live in that city, forever&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there we shall never grow old.&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Jesse James</title>
-      <link>http://localhost:1313/songs/jesse-james/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/jesse-james/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Jesse James was a lad that killed many a man&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He robbed the Glendale train&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He stole from the rich and he gave to the poor&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;d a hand and a heart and a brain&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well it was Robert Ford, that dirty little coward&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I wonder now how he feels&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For he ate of Jesse&amp;#39;s bread and he slept on Jesse&amp;#39;s bed&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And he laid poor Jesse in his grave&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well Jesse had a wife to mourn for his life&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Three children now, they were brave&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well that dirty little coward that shot Mr. Howard&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He laid poor Jesse in his grave&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well Jesse was a man, a friend to the poor&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;d never rob a mother or a child&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There never was a man with the law in his hand&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That could take Jesse James when alive&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well Jesse had a wife to mourn for his life&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Three children now, they were brave&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well that dirty little coward that shot Mr. Howard&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He laid poor Jesse in his grave&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;It was on a Saturday night when the moon was shining bright&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;They robbed the Glendale train&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And people they did say o&amp;#39;er many miles away&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;It was those outlaws Frank and Jesse James&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well Jesse had a wife to mourn for his life&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Three children now, they were brave&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well that dirty little coward that shot Mr. Howard&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He laid poor Jesse in his grave&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Now the people held their breath when they heard of Jesse&amp;#39;s death&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;They wondered how he&amp;#39;d ever come to fall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Robert Ford it&amp;#39;s a fact he shot Jesse in the back&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;While Jesse hung a picture on the wall&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Long Time Traveller</title>
-      <link>http://localhost:1313/songs/long-time-traveller/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/long-time-traveller/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;These fleeting charms of earth&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Farewell, your springs of joy are dry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My soul now seeks another home&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;A brighter world on high&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m a long time travelling here below&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m a long time travelling away from home&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m a long time travelling here below&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;To lay this body down&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Farewell kind friends whose tender care&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Has long engaged my love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Your fond embrace I now exchange&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For better friends above&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m a long time travelling here below&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m a long time travelling away from home&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m a long time travelling here below&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;To lay this body down&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Nearer My God to Thee</title>
-      <link>http://localhost:1313/songs/nearer-my-god-to-thee/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/nearer-my-god-to-thee/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee, nearer to thee!&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;E&amp;#39;en though it be a cross that raiseth me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Still all my song shall be&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee, nearer to thee!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Though like the wanderer, the sun gone down&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Darkness be over me, my rest a stone;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yet in my dreams I&amp;#39;d be&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee, nearer to thee!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Then, with my waking thoughts bright with thy praise&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Out of my stony griefs Bethel I&amp;#39;ll raise;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So by my woes to be&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee, nearer to thee!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Or if, on joyful wing cleaving the sky&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Sun, moon, and stars forgot, upward I fly&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Still all my song shall be&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Nearer, my God, to thee, nearer to thee!&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Shady Grove</title>
-      <link>http://localhost:1313/songs/shady-grove/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/shady-grove/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Peaches in the summertime&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Apples in the fall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If I can&amp;#39;t have the one I love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I don&amp;#39;t want none at all&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my true love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my true love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I wish I had a banjo string&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Made of golden twine&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Every tune I&amp;#39;d play on it&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I wish that girl was mine&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my true love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my true love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I wish I had a needle and thread&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Finest I could sew&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Sew that pretty girl to my side&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And down the road I&amp;#39;d go&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my true love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my true love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Cheeks as red as a bloomin&amp;#39; rose&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Eyes of the prettiest brown&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She&amp;#39;s the darling of my heart&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Stay till the sun goes down&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;First time I saw Shady Grove&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She was standing in the door&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shoes and stockings in her hands&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And her little feet on the floor&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Every night when I go home&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My wife would try to please her&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The more I try the worse she gets&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ll be damned if I don&amp;#39;t leave her&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I wish I had a big fat horse&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And corn to feed him on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And a pretty little girl to stay at home&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And feed him while I&amp;#39;m gone&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Wished I had a banjo string&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Made of golden twine&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And every time I&amp;#39;d play on it&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Wish that girl was mine&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Peaches in the summertime&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Apples in the fall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If I can&amp;#39;t have the one I love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I won&amp;#39;t have none at all&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my darling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Shady Grove my little love&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m going back to Harlan&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sittin&#39; on Top of the World</title>
-      <link>http://localhost:1313/songs/sittin-on-top-of-the-world/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/sittin-on-top-of-the-world/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Was in the spring, one sunny day&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My sweetheart left me, Lord, she went away&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And now she&amp;#39;s gone and I don&amp;#39;t worry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She called me up from down in El Paso&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She said &amp;#34;Come back, daddy, ooh, I need you so&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;If you don&amp;#39;t like my peaches, don&amp;#39;t you shake my tree&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And get out of my orchard, let my peaches be&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And don&amp;#39;t you come here runnin&amp;#39;, holdin&amp;#39; out your hand&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m gonna get me a woman like you got your man&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;It was in the spring, one sunny day&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;My sweetheart left me, Lord, she went away&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Streets of Laredo</title>
-      <link>http://localhost:1313/songs/streets-of-laredo/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/streets-of-laredo/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;As I walked out in the streets of Laredo&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;As I walked out in Laredo one day&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I spied a poor cowboy wrapped up in white linen&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;All wrapped in white linen as cold as the clay&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;I see by your outfit that you are a cowboy&amp;#34;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;These words he did say as I proudly stepped by&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Come sit down beside me and hear my sad story&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m shot in the breast and I know I must die&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;&amp;#39;Twas once in the saddle I used to go ridin&amp;#39;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Once in the saddle I used to go gay&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;First lead to drinkin&amp;#39;, and then to card-playing&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m shot in the breast and I&amp;#39;m dying today&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Let six jolly cowboys come carry my coffin&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Let six pretty gals come to carry my pall&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Throw bunches of roses all over my coffin&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Throw roses to deaden the clods as they fall&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;&amp;#34;Oh, beat the drum slowly, and play the fife lowly&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And play the dead march as you carry me along&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Take me to the green valley and lay the earth o&amp;#39;er me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For I&amp;#39;m a poor cowboy and I know I&amp;#39;ve done wrong&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We beat the drum slowly and played the fife lowly&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And bitterly wept as we carried him along&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For we all loved our comrade, so brave, young and handsome&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;We all loved our comrade although he done wrong&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Waterbound</title>
-      <link>http://localhost:1313/songs/waterbound/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/waterbound/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Chickens crowin&amp;#39; in an old pine tree (x3)&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Down in North Carolina&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Waterbound and I can&amp;#39;t get home (x3)&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Down in North Carolina&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;River&amp;#39;s up and I can&amp;#39;t get across (x3)&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Before the water rises&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Waterbound and I can&amp;#39;t get home (x3)&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Down in North Carolina&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Stay all night and don&amp;#39;t go in (x3)&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Dance with me till mornin&amp;#39;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Wayfaring Stranger</title>
-      <link>http://localhost:1313/songs/wayfaring-stranger/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/wayfaring-stranger/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m just a poor wayfaring stranger&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;While travelin&amp;#39; through this world of woe&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There is no sickness, toil, or danger&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In that bright world to which I go&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m goin&amp;#39; there to see my father&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m goin&amp;#39; there no more to roam&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m only going over Jordan&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m only going over home&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The world is wide; My way is dreary&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And there are times that I might stray&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But I will wander, weak and weary&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Till I go home on judgment day&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m going there to see my mother&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She said she’d meet me when I come&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m only going over Jordan&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m only going over home&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I know dark clouds will gather o&amp;#39;er me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I know my path is rough and steep&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But golden fields lie out before me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where weary eyes no more shall weep&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;m goin&amp;#39; there to see my brothers&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;They went before me one by one&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m only going over Jordan&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m only going over home&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Whiskey in the Jar</title>
-      <link>http://localhost:1313/songs/whiskey-in-the-jar/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/whiskey-in-the-jar/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;As I was a-goin&amp;#39; over Gilgarra mountains&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I met Colonel Pepper and his money he was counting&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I drew forth my pistol and I rattled my sabre&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Saying &amp;#34;stand and deliver, for I am a bold deceiver&amp;#34;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Musha ringum duram da&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;s whiskey in the jar&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;The shining yellow coins did sure look bright and jolly&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I took the money home and I gave it to my Molly&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;She promised and she vowed that she never would deceive me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But the devil&amp;#39;s in the women for they never can be easy&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Musha ringum duram da&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;s whiskey in the jar&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When I awoke between the hours of six and seven&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Guards were standing &amp;#39;round me in numbers odd and even&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I flew to my pistols, but alas I was mistaken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I fired off my pistols and a prisoner was taken&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Musha ringum duram da&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;s whiskey in the jar&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;They put me in jail without a judge or jury&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For robbing Colonel Pepper in the morning so early&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;They didn&amp;#39;t take my fist so I knocked down the sentry&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I bid a long farewell to that cold penitentiary&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Musha ringum duram da&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;s whiskey in the jar&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Some take delight in fishing and bowling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Others take delight in carriage a-rollin&amp;#39;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I take delight in the juice of the barley&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Courting pretty women in the morning so early&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Musha ringum duram da&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Whack fol de daddy-o&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There&amp;#39;s whiskey in the jar&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Will the Circle Be Unbroken</title>
-      <link>http://localhost:1313/songs/will-the-circle-be-unbroken/</link>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/will-the-circle-be-unbroken/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I was standing by the window&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;On a cold and cloudy day&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When I saw the hearse come rolling&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;To carry my mother away&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will the circle be unbroken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Bye and bye Lord bye and bye&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There’s a better home a-waiting&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the sky Lord in the sky&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I said to the undertaker&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Undertaker please drive slow&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;For that body you are carrying&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Lord I hate to see her go&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will the circle be unbroken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Bye and bye Lord bye and bye&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There’s a better home a-waiting&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the sky Lord in the sky&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Well I followed close behind her&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Tried to hold up and be brave&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But I could not hide my sorrow&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When they laid her in that grave&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will the circle be unbroken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Bye and bye Lord bye and bye&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There’s a better home a-waiting&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the sky Lord in the sky&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I went back home Lord that home was lonesome&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Since my mother, she was gone&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;All my brothers and sisters crying&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;What a home so sad and alone&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will the circle be unbroken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Bye and bye Lord bye and bye&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;There’s a better home a-waiting&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In the sky Lord in the sky&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>All About You</title>
-      <link>http://localhost:1313/songs/all-about-you/</link>
-      <pubDate>Sun, 15 Nov 2026 03:22:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/all-about-you/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told the daffodils&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told the whippoorwills&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Just how pretty you smile&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I told them all about you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told each little bird&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Every little single word&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;That you say is worthwhile&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I told them all about you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I told the moon and every little star that shines above&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;About the way you roll your pretty eyes and how you love&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Each little honeybee&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Knows there&amp;#39;s gonna be&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;A honeymoon for two&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Yes, I told them all about you&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Send Me the Pillow That You Dream On</title>
-      <link>http://localhost:1313/songs/pillow/</link>
-      <pubDate>Sun, 15 Nov 2026 03:19:00 -0500</pubDate>
-      <guid>http://localhost:1313/songs/pillow/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Don&amp;#39;t you know that I still care for you?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Each night while I&amp;#39;m sleeping oh, so lonely&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ll share your love in dreams that once were true&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Maybe time will let our dreams come true&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ve waited so long for you to write me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But just a memory&amp;#39;s all that&amp;#39;s left of you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>I&#39;m Thinking Tonight of My Blue Eyes</title>
-      <link>http://localhost:1313/songs/blue-eyes/</link>
-      <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
-      <guid>http://localhost:1313/songs/blue-eyes/</guid>
-      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;‘Twould been better for us both had we never&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;In this wide and wicked world had never met,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But the pleasure we both seemed to gather&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m sure, love, I never will forget&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, I’m thinking tonight of my blue eyes&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Who is sailing far over the sea&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I’m thinking tonight of him only&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;And I wonder if he ever thinks of me&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Oh, you told me once, dear, that you loved me;&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;You vowed that we never would part&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But a link in the chain has been broken&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Leaving me with a sad and aching heart&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;When the cold, cold grave shall enclose me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will you come near and shed just one tear?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Will you say to the strangers around you&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;A poor heart you have broken lies here?&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Sweet Little Mitch</title>
-      <link>http://localhost:1313/songs/sweet-lil-mitch/</link>
-      <pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate>
-      <guid>http://localhost:1313/songs/sweet-lil-mitch/</guid>
-      <description>&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where, oh, where, is sweet little Mitch?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where, oh, where, is sweet little Mitch?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Where, oh, where, is sweet little Mitch?&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Way down yonder in the paw-paw patch!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;He&amp;#39;s probably in the park, paddling his pickle,&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Way down yonder in the paw-paw patch!&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block postchorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come on boys, let&amp;#39;s go find him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come on boys, let&amp;#39;s go find him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Come on boys, let&amp;#39;s go find him&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Way down yonder in the paw-paw patch!&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All songs on Lyrics</title><link>https://lyrics.opmorgan.com/songs/</link><description>Recent content in All songs on Lyrics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://lyrics.opmorgan.com/songs/index.xml" rel="self" type="application/rss+xml"/><item><title>Cluck Old Hen</title><link>https://lyrics.opmorgan.com/songs/cluck-old-hen/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/cluck-old-hen/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">This old hen&amp;#39;s a good old hen&lt;/span>
+ &lt;span class="lyric-line">Lays some eggs for the railroad men&lt;/span>
+ &lt;span class="lyric-line">Sometimes 8 and sometimes ten&lt;/span>
+ &lt;span class="lyric-line">That&amp;#39;s enough for the railroad men&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block prechorus">
+ &lt;span class="lyric-line">Cluck old chicken&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Cluck old hen cluck and sing&lt;/span>
+ &lt;span class="lyric-line">You ain&amp;#39;t laid an egg since late last spring&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen cluck and squall&lt;/span>
+ &lt;span class="lyric-line">Ain&amp;#39;t laid an egg since late last fall&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">My little hen, she had a wooden leg&lt;/span>
+ &lt;span class="lyric-line">Best darn hen that ever laid an egg&lt;/span>
+ &lt;span class="lyric-line">Laid more eggs than any hen around the barn&lt;/span>
+ &lt;span class="lyric-line">Another little drink wouldn&amp;#39;t do me any harm&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block prechorus">
+ &lt;span class="lyric-line">Cluck old chicken&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Cluck old hen cluck and sing&lt;/span>
+ &lt;span class="lyric-line">You ain&amp;#39;t laid an egg since late last spring&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen cluck and squall&lt;/span>
+ &lt;span class="lyric-line">Ain&amp;#39;t laid an egg since late last fall&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">My old hen, she won&amp;#39;t do,&lt;/span>
+ &lt;span class="lyric-line">She lays eggs and taters too!&lt;/span>
+ &lt;span class="lyric-line">Last time she cackled, cackled in the lot&lt;/span>
+ &lt;span class="lyric-line">Next time she cackles, she&amp;#39;ll cackle in the pot!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block prechorus">
+ &lt;span class="lyric-line">Cluck old chicken&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Cluck old hen cluck and sing&lt;/span>
+ &lt;span class="lyric-line">You ain&amp;#39;t laid an egg since late last spring&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen cluck and squall&lt;/span>
+ &lt;span class="lyric-line">Ain&amp;#39;t laid an egg since late last fall&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">This old hen&amp;#39;s a good old hen&lt;/span>
+ &lt;span class="lyric-line">Lays some eggs for the railroad men&lt;/span>
+ &lt;span class="lyric-line">Sometimes one and sometimes two&lt;/span>
+ &lt;span class="lyric-line">That&amp;#39;s enough for the holdup crew&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block prechorus">
+ &lt;span class="lyric-line">Cluck old chicken&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Cluck old hen cluck and sing&lt;/span>
+ &lt;span class="lyric-line">You ain&amp;#39;t laid an egg since late last spring&lt;/span>
+ &lt;span class="lyric-line">Cluck old hen cluck and squall&lt;/span>
+ &lt;span class="lyric-line">Ain&amp;#39;t laid an egg since late last fall&lt;/span>
+&lt;/div></description></item><item><title>Greensleeves</title><link>https://lyrics.opmorgan.com/songs/greensleeves/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/greensleeves/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Alas, my love, you do me wrong&lt;/span>
+ &lt;span class="lyric-line">To cast me off discourteously&lt;/span>
+ &lt;span class="lyric-line">For I have loved you well so long&lt;/span>
+ &lt;span class="lyric-line">Delighting in your company&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Greensleeves was all my joy&lt;/span>
+ &lt;span class="lyric-line">Greensleeves was my delight&lt;/span>
+ &lt;span class="lyric-line">Greensleeves, my heart of gold&lt;/span>
+ &lt;span class="lyric-line">And who but my Lady Greensleeves&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">And I will pray to God on high&lt;/span>
+ &lt;span class="lyric-line">That thou my constancy may see&lt;/span>
+ &lt;span class="lyric-line">And that yet once before I die&lt;/span>
+ &lt;span class="lyric-line">Thou wilt vouchsafe to love me&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Greensleeves was all my joy&lt;/span>
+ &lt;span class="lyric-line">Greensleeves was my delight&lt;/span>
+ &lt;span class="lyric-line">Greensleeves, my heart of gold&lt;/span>
+ &lt;span class="lyric-line">And who but my Lady Greensleeves&lt;/span>
+&lt;/div></description></item><item><title>Hard Times Come Again No More</title><link>https://lyrics.opmorgan.com/songs/hard-times/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/hard-times/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Let us pause in life&amp;#39;s pleasures and count its many tears&lt;/span>
+ &lt;span class="lyric-line">While we all sup sorrow with the poor&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;s a song that will linger forever in our ears&lt;/span>
+ &lt;span class="lyric-line">Oh, hard times, come again no more&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">&amp;#39;Tis the song, the sigh of the weary&lt;/span>
+ &lt;span class="lyric-line">Hard times, hard times, come again no more&lt;/span>
+ &lt;span class="lyric-line">Many days you have lingered around my cabin door&lt;/span>
+ &lt;span class="lyric-line">Oh, hard times, come again no more&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">While we seek mirth and beauty and music, light and gay&lt;/span>
+ &lt;span class="lyric-line">There are frail forms fainting at the door&lt;/span>
+ &lt;span class="lyric-line">Though their voices are silent, their pleading looks will say&lt;/span>
+ &lt;span class="lyric-line">Oh, hard times, come again no more&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">There&amp;#39;s a pale weeping maiden who toils her life away&lt;/span>
+ &lt;span class="lyric-line">With a worn heart whose better days are o&amp;#39;er&lt;/span>
+ &lt;span class="lyric-line">Though her voice would be merry, &amp;#39;tis sighing all the day&lt;/span>
+ &lt;span class="lyric-line">Oh, hard times come again no more&lt;/span>
+&lt;/div></description></item><item><title>I'll Fly Away</title><link>https://lyrics.opmorgan.com/songs/ill-fly-away/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/ill-fly-away/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Some bright morning when this life is over&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+ &lt;span class="lyric-line">To that home on God’s celestial shore&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I’ll fly away oh glory&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away (in the morning)&lt;/span>
+ &lt;span class="lyric-line">When I die hallelujah by and by&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">When the shadows of this life have gone&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+ &lt;span class="lyric-line">Like a bird from these prison walls I’ll fly&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Oh how glad and happy when we meet&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+ &lt;span class="lyric-line">No more cold iron shackles on my feet&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Just a few more weary days and then&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+ &lt;span class="lyric-line">To a land where joys will never end&lt;/span>
+ &lt;span class="lyric-line">I’ll fly away&lt;/span>
+&lt;/div></description></item><item><title>Loch Lomond</title><link>https://lyrics.opmorgan.com/songs/loch-lomond/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/loch-lomond/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">By yon bonnie banks and by yon bonnie braes,&lt;/span>
+ &lt;span class="lyric-line">Where the sun shines bright on Loch Lomond,&lt;/span>
+ &lt;span class="lyric-line">Where me and my true love were ever wont to gae,&lt;/span>
+ &lt;span class="lyric-line">On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">O ye&amp;#39;ll tak&amp;#39; the high road, and I&amp;#39;ll tak&amp;#39; the low road,&lt;/span>
+ &lt;span class="lyric-line">And I&amp;#39;ll be in Scotland afore ye,&lt;/span>
+ &lt;span class="lyric-line">But me and my true love will never meet again,&lt;/span>
+ &lt;span class="lyric-line">On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#39;Twas there that we parted, in yon shady glen,&lt;/span>
+ &lt;span class="lyric-line">On the steep, steep side o&amp;#39; Ben Lomond,&lt;/span>
+ &lt;span class="lyric-line">Where in soft purple hue, the highland hills we view,&lt;/span>
+ &lt;span class="lyric-line">And the moon coming out in the gloaming.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">O ye&amp;#39;ll tak&amp;#39; the high road, and I&amp;#39;ll tak&amp;#39; the low road,&lt;/span>
+ &lt;span class="lyric-line">And I&amp;#39;ll be in Scotland afore ye,&lt;/span>
+ &lt;span class="lyric-line">But me and my true love will never meet again,&lt;/span>
+ &lt;span class="lyric-line">On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">The wee birdies sing and the wildflowers spring,&lt;/span>
+ &lt;span class="lyric-line">And in sunshine the waters are sleeping.&lt;/span>
+ &lt;span class="lyric-line">But the broken heart it kens nae second spring again,&lt;/span>
+ &lt;span class="lyric-line">Though the waeful may cease frae their grieving.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">O ye&amp;#39;ll tak&amp;#39; the high road, and I&amp;#39;ll tak&amp;#39; the low road,&lt;/span>
+ &lt;span class="lyric-line">And I&amp;#39;ll be in Scotland afore ye,&lt;/span>
+ &lt;span class="lyric-line">But me and my true love will never meet again,&lt;/span>
+ &lt;span class="lyric-line">On the bonnie, bonnie banks o&amp;#39; Loch Lomond.&lt;/span>
+&lt;/div></description></item><item><title>What Child is This</title><link>https://lyrics.opmorgan.com/songs/what-child-is-this/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/what-child-is-this/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">What Child is this who, laid to rest&lt;/span>
+ &lt;span class="lyric-line">On Mary&amp;#39;s lap, is sleeping?&lt;/span>
+ &lt;span class="lyric-line">Whom angels greet with anthems sweet&lt;/span>
+ &lt;span class="lyric-line">While the good shepherds watch are keeping?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">So bring Him incense, gold and myrrh&lt;/span>
+ &lt;span class="lyric-line">Come peasant, king to own Him&lt;/span>
+ &lt;span class="lyric-line">The King of kings salvation brings&lt;/span>
+ &lt;span class="lyric-line">Let loving hearts enthrone Him&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">This, this is Christ the King&lt;/span>
+ &lt;span class="lyric-line">Whom shepherds guard and angels sing&lt;/span>
+ &lt;span class="lyric-line">Haste, haste, to bring Him laud&lt;/span>
+ &lt;span class="lyric-line">The Babe, the Son of Mary&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Raise, oh raise, the song on high&lt;/span>
+ &lt;span class="lyric-line">His mother sings her lullaby&lt;/span>
+ &lt;span class="lyric-line">Joy, oh joy, for Christ is born&lt;/span>
+ &lt;span class="lyric-line">The Babe, the Son of Mary&lt;/span>
+&lt;/div></description></item><item><title>Where the Soul of Man Never Dies</title><link>https://lyrics.opmorgan.com/songs/where-the-soul-of-man-never-dies/</link><pubDate>Thu, 19 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/where-the-soul-of-man-never-dies/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">To Canaan&amp;#39;s land I&amp;#39;m on my way&lt;/span>
+ &lt;span class="lyric-line">Where the soul (of man) never dies&lt;/span>
+ &lt;span class="lyric-line">My darkest night will turn to day&lt;/span>
+ &lt;span class="lyric-line">Where the soul (of man) never dies&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Dear friends there&amp;#39;ll be no sad farewells&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;ll be no tear dimmed eyes&lt;/span>
+ &lt;span class="lyric-line">Where all is peace and joy and love&lt;/span>
+ &lt;span class="lyric-line">And the soul of man never dies&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">The rose is blooming there for me&lt;/span>
+ &lt;span class="lyric-line">Where the soul (of man) never dies&lt;/span>
+ &lt;span class="lyric-line">And I will spend eternity&lt;/span>
+ &lt;span class="lyric-line">Where the soul (of man) never dies&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Dear friends there&amp;#39;ll be no sad farewells&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;ll be no tear dimmed eyes&lt;/span>
+ &lt;span class="lyric-line">Where all is peace and joy and love&lt;/span>
+ &lt;span class="lyric-line">And the soul of man never dies&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">The love light beams across the foam&lt;/span>
+ &lt;span class="lyric-line">Where the soul (of man) never dies&lt;/span>
+ &lt;span class="lyric-line">It shines and lights the way to home&lt;/span>
+ &lt;span class="lyric-line">Where the soul (of man) never dies&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Dear friends there&amp;#39;ll be no sad farewells&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;ll be no tear dimmed eyes&lt;/span>
+ &lt;span class="lyric-line">Where all is peace and joy and love&lt;/span>
+ &lt;span class="lyric-line">And the soul of man never dies&lt;/span>
+&lt;/div></description></item><item><title>Auld Lang Syne</title><link>https://lyrics.opmorgan.com/songs/auld-lang-syne/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/auld-lang-syne/</guid><description>&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Should old acquaintance be forgot&lt;/span>
+ &lt;span class="lyric-line">And never brought to mind?&lt;/span>
+ &lt;span class="lyric-line">Should old acquaintance be forgot&lt;/span>
+ &lt;span class="lyric-line">In the days of auld lang syne?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">For auld lang syne, my dear&lt;/span>
+ &lt;span class="lyric-line">For auld lang syne&lt;/span>
+ &lt;span class="lyric-line">We&amp;#39;ll drink a cup of kindness yet&lt;/span>
+ &lt;span class="lyric-line">For the sake of auld lang syne&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">And surely, you will buy your cup&lt;/span>
+ &lt;span class="lyric-line">And surely, I&amp;#39;ll buy mine!&lt;/span>
+ &lt;span class="lyric-line">We&amp;#39;ll take a cup of kindness yet&lt;/span>
+ &lt;span class="lyric-line">For the sake of auld lang syne&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">We two who&amp;#39;ve paddled in the stream&lt;/span>
+ &lt;span class="lyric-line">From morning sun &amp;#39;til night&lt;/span>
+ &lt;span class="lyric-line">The seas between us roared and swelled&lt;/span>
+ &lt;span class="lyric-line">Since the days of auld lang syne&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">For old acquaintance be forgot&lt;/span>
+ &lt;span class="lyric-line">And never brought to mind&lt;/span>
+ &lt;span class="lyric-line">Should old acquaintance be forgot&lt;/span>
+ &lt;span class="lyric-line">For the sake of auld lang syne?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">For auld lang syne, my dear&lt;/span>
+ &lt;span class="lyric-line">For auld lang syne&lt;/span>
+ &lt;span class="lyric-line">We&amp;#39;ll drink a cup of kindness yet&lt;/span>
+ &lt;span class="lyric-line">For the sake of auld lang syne&lt;/span>
+&lt;/div></description></item><item><title>Bury Me Beneath the Willow</title><link>https://lyrics.opmorgan.com/songs/bury-me-beneath-the-willow/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/bury-me-beneath-the-willow/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">My heart is sad I am lonely&lt;/span>
+ &lt;span class="lyric-line">For the only one I love&lt;/span>
+ &lt;span class="lyric-line">When shall I see her oh no never&lt;/span>
+ &lt;span class="lyric-line">‘Til we meet in heaven above&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Oh, bury me beneath the willow&lt;/span>
+ &lt;span class="lyric-line">Under the weeping willow tree&lt;/span>
+ &lt;span class="lyric-line">So she will know where I am sleeping&lt;/span>
+ &lt;span class="lyric-line">And perhaps she’ll weep for me&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">She told me that she dearly loved me&lt;/span>
+ &lt;span class="lyric-line">How could I believe it untrue&lt;/span>
+ &lt;span class="lyric-line">Until the angels softly whispered&lt;/span>
+ &lt;span class="lyric-line">She could never love you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Oh, bury me beneath the willow&lt;/span>
+ &lt;span class="lyric-line">Under the weeping willow tree&lt;/span>
+ &lt;span class="lyric-line">So she will know where I am sleeping&lt;/span>
+ &lt;span class="lyric-line">And perhaps she’ll weep for me&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Tomorrow was to be our wedding&lt;/span>
+ &lt;span class="lyric-line">God oh God where can she be&lt;/span>
+ &lt;span class="lyric-line">She’s out a courting with another&lt;/span>
+ &lt;span class="lyric-line">And no longer cares for me&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Oh, bury me beneath the willow&lt;/span>
+ &lt;span class="lyric-line">Under the weeping willow tree&lt;/span>
+ &lt;span class="lyric-line">So she will know where I am sleeping&lt;/span>
+ &lt;span class="lyric-line">And perhaps she’ll weep for me&lt;/span>
+&lt;/div></description></item><item><title>Dream of the Miner's Child</title><link>https://lyrics.opmorgan.com/songs/dream-of-the-miners-child/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/dream-of-the-miners-child/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">A miner was leaving his home for his work&lt;/span>
+ &lt;span class="lyric-line">When he heard his little child scream&lt;/span>
+ &lt;span class="lyric-line">He went to the side of the little girl&amp;#39;s bed&lt;/span>
+ &lt;span class="lyric-line">She said, &amp;#34;Daddy, I&amp;#39;ve had such a dream!&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">&amp;#34;Oh, daddy, don&amp;#39;t go to the mines today&lt;/span>
+ &lt;span class="lyric-line">For dreams have so often come true&lt;/span>
+ &lt;span class="lyric-line">My daddy, my daddy, please don&amp;#39;t go away&lt;/span>
+ &lt;span class="lyric-line">For I never could live without you&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Then smiling and stroking the little girl&amp;#39;s face&lt;/span>
+ &lt;span class="lyric-line">He was turning away from her side&lt;/span>
+ &lt;span class="lyric-line">But she threw her small arms around daddy&amp;#39;s neck&lt;/span>
+ &lt;span class="lyric-line">She gave him a kiss and then cried:&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#34;Oh, I dreamed that the mines were all flaming with fire&lt;/span>
+ &lt;span class="lyric-line">And the men all fought for their lives&lt;/span>
+ &lt;span class="lyric-line">Just then the scene changed, and the mouth of the mines&lt;/span>
+ &lt;span class="lyric-line">Was covered with sweethearts and wives&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">&amp;#34;Oh, daddy, don&amp;#39;t go to the mines today&lt;/span>
+ &lt;span class="lyric-line">For dreams have so often come true&lt;/span>
+ &lt;span class="lyric-line">My daddy, my daddy, please don&amp;#39;t go away&lt;/span>
+ &lt;span class="lyric-line">For I never could live without you&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#34;Go down to the village and tell your dear friends&lt;/span>
+ &lt;span class="lyric-line">That sure as the bright stars do shine&lt;/span>
+ &lt;span class="lyric-line">There’s something that&amp;#39;s going to happen today&lt;/span>
+ &lt;span class="lyric-line">Please, daddy, don&amp;#39;t go to the mines&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">&amp;#34;Oh, daddy, don&amp;#39;t go to the mines today&lt;/span>
+ &lt;span class="lyric-line">For dreams have so often come true&lt;/span>
+ &lt;span class="lyric-line">My daddy, my daddy, please don&amp;#39;t go away&lt;/span>
+ &lt;span class="lyric-line">For I never could live without you&amp;#34;&lt;/span>
+&lt;/div></description></item><item><title>I Wish I Was a Mole in the Ground</title><link>https://lyrics.opmorgan.com/songs/i-wish-i-was-a-mole-in-the-ground/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/i-wish-i-was-a-mole-in-the-ground/</guid><description>&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Yes, I wish I was a mole in the ground&lt;/span>
+ &lt;span class="lyric-line">If I&amp;#39;m a mole in the ground I would root that mountain down&lt;/span>
+ &lt;span class="lyric-line">And I wish I was a mole in the ground&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Oh, Tippy wants a nine dollar shawl&lt;/span>
+ &lt;span class="lyric-line">Yes, Tippy wants a nine dollar shawl&lt;/span>
+ &lt;span class="lyric-line">When I come o&amp;#39;er the hill with a forty dollar bill&lt;/span>
+ &lt;span class="lyric-line">Baby, where you been so long?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I been in the bend so long&lt;/span>
+ &lt;span class="lyric-line">Yes, I been in the bend so long&lt;/span>
+ &lt;span class="lyric-line">I been in the bend with the rough and rowdy men&lt;/span>
+ &lt;span class="lyric-line">Baby, where you been so long?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Oh, I don&amp;#39;t like a railroad man&lt;/span>
+ &lt;span class="lyric-line">No, I don&amp;#39;t like a railroad man&lt;/span>
+ &lt;span class="lyric-line">If I&amp;#39;m a railroad man they&amp;#39;ll kill you when he can&lt;/span>
+ &lt;span class="lyric-line">Drink up your blood like wine&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Oh, I wish I was a lizard in the spring&lt;/span>
+ &lt;span class="lyric-line">Yes, I wish I was a lizard in the spring&lt;/span>
+ &lt;span class="lyric-line">If I&amp;#39;m a lizard in the spring I&amp;#39;d hear my darlin&amp;#39; sing&lt;/span>
+ &lt;span class="lyric-line">And I wish I was a lizard in the spring&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Oh Capie, let your hair roll down&lt;/span>
+ &lt;span class="lyric-line">Capie, let your hair roll down&lt;/span>
+ &lt;span class="lyric-line">Let your hair roll down and your bangs curl around&lt;/span>
+ &lt;span class="lyric-line">Oh Capie, let your hair roll down&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I wish I was a mole in the ground&lt;/span>
+ &lt;span class="lyric-line">Yes, I wish I was a mole in the ground&lt;/span>
+ &lt;span class="lyric-line">If I&amp;#39;m a mole in the ground I&amp;#39;d root that mountain down&lt;/span>
+ &lt;span class="lyric-line">And I wish I was a mole in the ground&lt;/span>
+&lt;/div></description></item><item><title>In Heaven We'll Never Grow Old</title><link>https://lyrics.opmorgan.com/songs/in-heaven-well-never-grow-old/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/in-heaven-well-never-grow-old/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">In the bible we read of a city&lt;/span>
+ &lt;span class="lyric-line">With streets that are paved with pure gold&lt;/span>
+ &lt;span class="lyric-line">We will live in that city, forever&lt;/span>
+ &lt;span class="lyric-line">And there we shall never grow old.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">In heaven we&amp;#39;ll never grow old&lt;/span>
+ &lt;span class="lyric-line">In heaven we&amp;#39;ll never grow old&lt;/span>
+ &lt;span class="lyric-line">We will live in that city, forever&lt;/span>
+ &lt;span class="lyric-line">And there we shall never grow old.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">In the bible we read of a river&lt;/span>
+ &lt;span class="lyric-line">That runs by the throne, we are told&lt;/span>
+ &lt;span class="lyric-line">We will drink of the life-giving waters&lt;/span>
+ &lt;span class="lyric-line">And there we shall never grow old.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">In heaven we&amp;#39;ll never grow old&lt;/span>
+ &lt;span class="lyric-line">In heaven we&amp;#39;ll never grow old&lt;/span>
+ &lt;span class="lyric-line">We will live in that city, forever&lt;/span>
+ &lt;span class="lyric-line">And there we shall never grow old.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Then we read of the earth&amp;#39;s weary pilgrims&lt;/span>
+ &lt;span class="lyric-line">Who have lived here through hunger and cold&lt;/span>
+ &lt;span class="lyric-line">They&amp;#39;ve at last reached their harbor in safety&lt;/span>
+ &lt;span class="lyric-line">And there we shall never grow old.&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">In heaven we&amp;#39;ll never grow old&lt;/span>
+ &lt;span class="lyric-line">In heaven we&amp;#39;ll never grow old&lt;/span>
+ &lt;span class="lyric-line">We will live in that city, forever&lt;/span>
+ &lt;span class="lyric-line">And there we shall never grow old.&lt;/span>
+&lt;/div></description></item><item><title>Jesse James</title><link>https://lyrics.opmorgan.com/songs/jesse-james/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/jesse-james/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Jesse James was a lad that killed many a man&lt;/span>
+ &lt;span class="lyric-line">He robbed the Glendale train&lt;/span>
+ &lt;span class="lyric-line">He stole from the rich and he gave to the poor&lt;/span>
+ &lt;span class="lyric-line">He&amp;#39;d a hand and a heart and a brain&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Well it was Robert Ford, that dirty little coward&lt;/span>
+ &lt;span class="lyric-line">I wonder now how he feels&lt;/span>
+ &lt;span class="lyric-line">For he ate of Jesse&amp;#39;s bread and he slept on Jesse&amp;#39;s bed&lt;/span>
+ &lt;span class="lyric-line">And he laid poor Jesse in his grave&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Well Jesse had a wife to mourn for his life&lt;/span>
+ &lt;span class="lyric-line">Three children now, they were brave&lt;/span>
+ &lt;span class="lyric-line">Well that dirty little coward that shot Mr. Howard&lt;/span>
+ &lt;span class="lyric-line">He laid poor Jesse in his grave&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Well Jesse was a man, a friend to the poor&lt;/span>
+ &lt;span class="lyric-line">He&amp;#39;d never rob a mother or a child&lt;/span>
+ &lt;span class="lyric-line">There never was a man with the law in his hand&lt;/span>
+ &lt;span class="lyric-line">That could take Jesse James when alive&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Well Jesse had a wife to mourn for his life&lt;/span>
+ &lt;span class="lyric-line">Three children now, they were brave&lt;/span>
+ &lt;span class="lyric-line">Well that dirty little coward that shot Mr. Howard&lt;/span>
+ &lt;span class="lyric-line">He laid poor Jesse in his grave&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">It was on a Saturday night when the moon was shining bright&lt;/span>
+ &lt;span class="lyric-line">They robbed the Glendale train&lt;/span>
+ &lt;span class="lyric-line">And people they did say o&amp;#39;er many miles away&lt;/span>
+ &lt;span class="lyric-line">It was those outlaws Frank and Jesse James&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Well Jesse had a wife to mourn for his life&lt;/span>
+ &lt;span class="lyric-line">Three children now, they were brave&lt;/span>
+ &lt;span class="lyric-line">Well that dirty little coward that shot Mr. Howard&lt;/span>
+ &lt;span class="lyric-line">He laid poor Jesse in his grave&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Now the people held their breath when they heard of Jesse&amp;#39;s death&lt;/span>
+ &lt;span class="lyric-line">They wondered how he&amp;#39;d ever come to fall&lt;/span>
+ &lt;span class="lyric-line">Robert Ford it&amp;#39;s a fact he shot Jesse in the back&lt;/span>
+ &lt;span class="lyric-line">While Jesse hung a picture on the wall&lt;/span>
+&lt;/div></description></item><item><title>Long Time Traveller</title><link>https://lyrics.opmorgan.com/songs/long-time-traveller/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/long-time-traveller/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">These fleeting charms of earth&lt;/span>
+ &lt;span class="lyric-line">Farewell, your springs of joy are dry&lt;/span>
+ &lt;span class="lyric-line">My soul now seeks another home&lt;/span>
+ &lt;span class="lyric-line">A brighter world on high&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I&amp;#39;m a long time travelling here below&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m a long time travelling away from home&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m a long time travelling here below&lt;/span>
+ &lt;span class="lyric-line">To lay this body down&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Farewell kind friends whose tender care&lt;/span>
+ &lt;span class="lyric-line">Has long engaged my love&lt;/span>
+ &lt;span class="lyric-line">Your fond embrace I now exchange&lt;/span>
+ &lt;span class="lyric-line">For better friends above&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I&amp;#39;m a long time travelling here below&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m a long time travelling away from home&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m a long time travelling here below&lt;/span>
+ &lt;span class="lyric-line">To lay this body down&lt;/span>
+&lt;/div></description></item><item><title>Nearer My God to Thee</title><link>https://lyrics.opmorgan.com/songs/nearer-my-god-to-thee/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/nearer-my-god-to-thee/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Nearer, my God, to thee, nearer to thee!&lt;/span>
+ &lt;span class="lyric-line">E&amp;#39;en though it be a cross that raiseth me&lt;/span>
+ &lt;span class="lyric-line">Still all my song shall be&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Nearer, my God, to thee;&lt;/span>
+ &lt;span class="lyric-line">Nearer, my God, to thee, nearer to thee!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Though like the wanderer, the sun gone down&lt;/span>
+ &lt;span class="lyric-line">Darkness be over me, my rest a stone;&lt;/span>
+ &lt;span class="lyric-line">Yet in my dreams I&amp;#39;d be&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Nearer, my God, to thee;&lt;/span>
+ &lt;span class="lyric-line">Nearer, my God, to thee, nearer to thee!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Then, with my waking thoughts bright with thy praise&lt;/span>
+ &lt;span class="lyric-line">Out of my stony griefs Bethel I&amp;#39;ll raise;&lt;/span>
+ &lt;span class="lyric-line">So by my woes to be&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Nearer, my God, to thee;&lt;/span>
+ &lt;span class="lyric-line">Nearer, my God, to thee, nearer to thee!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Or if, on joyful wing cleaving the sky&lt;/span>
+ &lt;span class="lyric-line">Sun, moon, and stars forgot, upward I fly&lt;/span>
+ &lt;span class="lyric-line">Still all my song shall be&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Nearer, my God, to thee;&lt;/span>
+ &lt;span class="lyric-line">Nearer, my God, to thee, nearer to thee!&lt;/span>
+&lt;/div></description></item><item><title>Shady Grove</title><link>https://lyrics.opmorgan.com/songs/shady-grove/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/shady-grove/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Peaches in the summertime&lt;/span>
+ &lt;span class="lyric-line">Apples in the fall&lt;/span>
+ &lt;span class="lyric-line">If I can&amp;#39;t have the one I love&lt;/span>
+ &lt;span class="lyric-line">I don&amp;#39;t want none at all&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my true love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my true love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I wish I had a banjo string&lt;/span>
+ &lt;span class="lyric-line">Made of golden twine&lt;/span>
+ &lt;span class="lyric-line">Every tune I&amp;#39;d play on it&lt;/span>
+ &lt;span class="lyric-line">I wish that girl was mine&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my true love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my true love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I wish I had a needle and thread&lt;/span>
+ &lt;span class="lyric-line">Finest I could sew&lt;/span>
+ &lt;span class="lyric-line">Sew that pretty girl to my side&lt;/span>
+ &lt;span class="lyric-line">And down the road I&amp;#39;d go&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my true love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my true love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Cheeks as red as a bloomin&amp;#39; rose&lt;/span>
+ &lt;span class="lyric-line">Eyes of the prettiest brown&lt;/span>
+ &lt;span class="lyric-line">She&amp;#39;s the darling of my heart&lt;/span>
+ &lt;span class="lyric-line">Stay till the sun goes down&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">First time I saw Shady Grove&lt;/span>
+ &lt;span class="lyric-line">She was standing in the door&lt;/span>
+ &lt;span class="lyric-line">Shoes and stockings in her hands&lt;/span>
+ &lt;span class="lyric-line">And her little feet on the floor&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Every night when I go home&lt;/span>
+ &lt;span class="lyric-line">My wife would try to please her&lt;/span>
+ &lt;span class="lyric-line">The more I try the worse she gets&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;ll be damned if I don&amp;#39;t leave her&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I wish I had a big fat horse&lt;/span>
+ &lt;span class="lyric-line">And corn to feed him on&lt;/span>
+ &lt;span class="lyric-line">And a pretty little girl to stay at home&lt;/span>
+ &lt;span class="lyric-line">And feed him while I&amp;#39;m gone&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Wished I had a banjo string&lt;/span>
+ &lt;span class="lyric-line">Made of golden twine&lt;/span>
+ &lt;span class="lyric-line">And every time I&amp;#39;d play on it&lt;/span>
+ &lt;span class="lyric-line">Wish that girl was mine&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Peaches in the summertime&lt;/span>
+ &lt;span class="lyric-line">Apples in the fall&lt;/span>
+ &lt;span class="lyric-line">If I can&amp;#39;t have the one I love&lt;/span>
+ &lt;span class="lyric-line">I won&amp;#39;t have none at all&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my darling&lt;/span>
+ &lt;span class="lyric-line">Shady Grove my little love&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m going back to Harlan&lt;/span>
+&lt;/div></description></item><item><title>Sittin' on Top of the World</title><link>https://lyrics.opmorgan.com/songs/sittin-on-top-of-the-world/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/sittin-on-top-of-the-world/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Was in the spring, one sunny day&lt;/span>
+ &lt;span class="lyric-line">My sweetheart left me, Lord, she went away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">And now she&amp;#39;s gone and I don&amp;#39;t worry&lt;/span>
+ &lt;span class="lyric-line">Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">She called me up from down in El Paso&lt;/span>
+ &lt;span class="lyric-line">She said &amp;#34;Come back, daddy, ooh, I need you so&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">But now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span>
+ &lt;span class="lyric-line">Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">If you don&amp;#39;t like my peaches, don&amp;#39;t you shake my tree&lt;/span>
+ &lt;span class="lyric-line">And get out of my orchard, let my peaches be&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">And now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span>
+ &lt;span class="lyric-line">Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">And don&amp;#39;t you come here runnin&amp;#39;, holdin&amp;#39; out your hand&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m gonna get me a woman like you got your man&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">And now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span>
+ &lt;span class="lyric-line">Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">It was in the spring, one sunny day&lt;/span>
+ &lt;span class="lyric-line">My sweetheart left me, Lord, she went away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">And now she&amp;#39;s gone, and I don&amp;#39;t worry&lt;/span>
+ &lt;span class="lyric-line">Lord, I&amp;#39;m sittin&amp;#39; on top of the world&lt;/span>
+&lt;/div></description></item><item><title>Streets of Laredo</title><link>https://lyrics.opmorgan.com/songs/streets-of-laredo/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/streets-of-laredo/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">As I walked out in the streets of Laredo&lt;/span>
+ &lt;span class="lyric-line">As I walked out in Laredo one day&lt;/span>
+ &lt;span class="lyric-line">I spied a poor cowboy wrapped up in white linen&lt;/span>
+ &lt;span class="lyric-line">All wrapped in white linen as cold as the clay&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#34;I see by your outfit that you are a cowboy&amp;#34;&lt;/span>
+ &lt;span class="lyric-line">These words he did say as I proudly stepped by&lt;/span>
+ &lt;span class="lyric-line">&amp;#34;Come sit down beside me and hear my sad story&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m shot in the breast and I know I must die&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#34;&amp;#39;Twas once in the saddle I used to go ridin&amp;#39;&lt;/span>
+ &lt;span class="lyric-line">Once in the saddle I used to go gay&lt;/span>
+ &lt;span class="lyric-line">First lead to drinkin&amp;#39;, and then to card-playing&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m shot in the breast and I&amp;#39;m dying today&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#34;Let six jolly cowboys come carry my coffin&lt;/span>
+ &lt;span class="lyric-line">Let six pretty gals come to carry my pall&lt;/span>
+ &lt;span class="lyric-line">Throw bunches of roses all over my coffin&lt;/span>
+ &lt;span class="lyric-line">Throw roses to deaden the clods as they fall&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">&amp;#34;Oh, beat the drum slowly, and play the fife lowly&lt;/span>
+ &lt;span class="lyric-line">And play the dead march as you carry me along&lt;/span>
+ &lt;span class="lyric-line">Take me to the green valley and lay the earth o&amp;#39;er me&lt;/span>
+ &lt;span class="lyric-line">For I&amp;#39;m a poor cowboy and I know I&amp;#39;ve done wrong&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">We beat the drum slowly and played the fife lowly&lt;/span>
+ &lt;span class="lyric-line">And bitterly wept as we carried him along&lt;/span>
+ &lt;span class="lyric-line">For we all loved our comrade, so brave, young and handsome&lt;/span>
+ &lt;span class="lyric-line">We all loved our comrade although he done wrong&lt;/span>
+&lt;/div></description></item><item><title>Waterbound</title><link>https://lyrics.opmorgan.com/songs/waterbound/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/waterbound/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Chickens crowin&amp;#39; in an old pine tree (x3)&lt;/span>
+ &lt;span class="lyric-line">Down in North Carolina&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Waterbound and I can&amp;#39;t get home (x3)&lt;/span>
+ &lt;span class="lyric-line">Down in North Carolina&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">River&amp;#39;s up and I can&amp;#39;t get across (x3)&lt;/span>
+ &lt;span class="lyric-line">Before the water rises&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Waterbound and I can&amp;#39;t get home (x3)&lt;/span>
+ &lt;span class="lyric-line">Down in North Carolina&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Stay all night and don&amp;#39;t go in (x3)&lt;/span>
+ &lt;span class="lyric-line">Dance with me till mornin&amp;#39;&lt;/span>
+&lt;/div></description></item><item><title>Wayfaring Stranger</title><link>https://lyrics.opmorgan.com/songs/wayfaring-stranger/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/wayfaring-stranger/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I&amp;#39;m just a poor wayfaring stranger&lt;/span>
+ &lt;span class="lyric-line">While travelin&amp;#39; through this world of woe&lt;/span>
+ &lt;span class="lyric-line">There is no sickness, toil, or danger&lt;/span>
+ &lt;span class="lyric-line">In that bright world to which I go&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I&amp;#39;m goin&amp;#39; there to see my father&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;m goin&amp;#39; there no more to roam&lt;/span>
+ &lt;span class="lyric-line">I’m only going over Jordan&lt;/span>
+ &lt;span class="lyric-line">I’m only going over home&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">The world is wide; My way is dreary&lt;/span>
+ &lt;span class="lyric-line">And there are times that I might stray&lt;/span>
+ &lt;span class="lyric-line">But I will wander, weak and weary&lt;/span>
+ &lt;span class="lyric-line">Till I go home on judgment day&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I’m going there to see my mother&lt;/span>
+ &lt;span class="lyric-line">She said she’d meet me when I come&lt;/span>
+ &lt;span class="lyric-line">I’m only going over Jordan&lt;/span>
+ &lt;span class="lyric-line">I’m only going over home&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I know dark clouds will gather o&amp;#39;er me&lt;/span>
+ &lt;span class="lyric-line">I know my path is rough and steep&lt;/span>
+ &lt;span class="lyric-line">But golden fields lie out before me&lt;/span>
+ &lt;span class="lyric-line">Where weary eyes no more shall weep&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">I&amp;#39;m goin&amp;#39; there to see my brothers&lt;/span>
+ &lt;span class="lyric-line">They went before me one by one&lt;/span>
+ &lt;span class="lyric-line">I’m only going over Jordan&lt;/span>
+ &lt;span class="lyric-line">I’m only going over home&lt;/span>
+&lt;/div></description></item><item><title>Whiskey in the Jar</title><link>https://lyrics.opmorgan.com/songs/whiskey-in-the-jar/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/whiskey-in-the-jar/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">As I was a-goin&amp;#39; over Gilgarra mountains&lt;/span>
+ &lt;span class="lyric-line">I met Colonel Pepper and his money he was counting&lt;/span>
+ &lt;span class="lyric-line">I drew forth my pistol and I rattled my sabre&lt;/span>
+ &lt;span class="lyric-line">Saying &amp;#34;stand and deliver, for I am a bold deceiver&amp;#34;&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Musha ringum duram da&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;s whiskey in the jar&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">The shining yellow coins did sure look bright and jolly&lt;/span>
+ &lt;span class="lyric-line">I took the money home and I gave it to my Molly&lt;/span>
+ &lt;span class="lyric-line">She promised and she vowed that she never would deceive me&lt;/span>
+ &lt;span class="lyric-line">But the devil&amp;#39;s in the women for they never can be easy&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Musha ringum duram da&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;s whiskey in the jar&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">When I awoke between the hours of six and seven&lt;/span>
+ &lt;span class="lyric-line">Guards were standing &amp;#39;round me in numbers odd and even&lt;/span>
+ &lt;span class="lyric-line">I flew to my pistols, but alas I was mistaken&lt;/span>
+ &lt;span class="lyric-line">I fired off my pistols and a prisoner was taken&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Musha ringum duram da&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;s whiskey in the jar&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">They put me in jail without a judge or jury&lt;/span>
+ &lt;span class="lyric-line">For robbing Colonel Pepper in the morning so early&lt;/span>
+ &lt;span class="lyric-line">They didn&amp;#39;t take my fist so I knocked down the sentry&lt;/span>
+ &lt;span class="lyric-line">And I bid a long farewell to that cold penitentiary&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Musha ringum duram da&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;s whiskey in the jar&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Some take delight in fishing and bowling&lt;/span>
+ &lt;span class="lyric-line">Others take delight in carriage a-rollin&amp;#39;&lt;/span>
+ &lt;span class="lyric-line">I take delight in the juice of the barley&lt;/span>
+ &lt;span class="lyric-line">Courting pretty women in the morning so early&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Musha ringum duram da&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">Whack fol de daddy-o&lt;/span>
+ &lt;span class="lyric-line">There&amp;#39;s whiskey in the jar&lt;/span>
+&lt;/div></description></item><item><title>Will the Circle Be Unbroken</title><link>https://lyrics.opmorgan.com/songs/will-the-circle-be-unbroken/</link><pubDate>Wed, 18 Nov 2026 00:00:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/will-the-circle-be-unbroken/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I was standing by the window&lt;/span>
+ &lt;span class="lyric-line">On a cold and cloudy day&lt;/span>
+ &lt;span class="lyric-line">When I saw the hearse come rolling&lt;/span>
+ &lt;span class="lyric-line">To carry my mother away&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Will the circle be unbroken&lt;/span>
+ &lt;span class="lyric-line">Bye and bye Lord bye and bye&lt;/span>
+ &lt;span class="lyric-line">There’s a better home a-waiting&lt;/span>
+ &lt;span class="lyric-line">In the sky Lord in the sky&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I said to the undertaker&lt;/span>
+ &lt;span class="lyric-line">Undertaker please drive slow&lt;/span>
+ &lt;span class="lyric-line">For that body you are carrying&lt;/span>
+ &lt;span class="lyric-line">Lord I hate to see her go&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Will the circle be unbroken&lt;/span>
+ &lt;span class="lyric-line">Bye and bye Lord bye and bye&lt;/span>
+ &lt;span class="lyric-line">There’s a better home a-waiting&lt;/span>
+ &lt;span class="lyric-line">In the sky Lord in the sky&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Well I followed close behind her&lt;/span>
+ &lt;span class="lyric-line">Tried to hold up and be brave&lt;/span>
+ &lt;span class="lyric-line">But I could not hide my sorrow&lt;/span>
+ &lt;span class="lyric-line">When they laid her in that grave&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Will the circle be unbroken&lt;/span>
+ &lt;span class="lyric-line">Bye and bye Lord bye and bye&lt;/span>
+ &lt;span class="lyric-line">There’s a better home a-waiting&lt;/span>
+ &lt;span class="lyric-line">In the sky Lord in the sky&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I went back home Lord that home was lonesome&lt;/span>
+ &lt;span class="lyric-line">Since my mother, she was gone&lt;/span>
+ &lt;span class="lyric-line">All my brothers and sisters crying&lt;/span>
+ &lt;span class="lyric-line">What a home so sad and alone&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Will the circle be unbroken&lt;/span>
+ &lt;span class="lyric-line">Bye and bye Lord bye and bye&lt;/span>
+ &lt;span class="lyric-line">There’s a better home a-waiting&lt;/span>
+ &lt;span class="lyric-line">In the sky Lord in the sky&lt;/span>
+&lt;/div></description></item><item><title>All About You</title><link>https://lyrics.opmorgan.com/songs/all-about-you/</link><pubDate>Sun, 15 Nov 2026 03:22:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/all-about-you/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I told the daffodils&lt;/span>
+ &lt;span class="lyric-line">I told the whippoorwills&lt;/span>
+ &lt;span class="lyric-line">Just how pretty you smile&lt;/span>
+ &lt;span class="lyric-line">Yes, I told them all about you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I told each little bird&lt;/span>
+ &lt;span class="lyric-line">Every little single word&lt;/span>
+ &lt;span class="lyric-line">That you say is worthwhile&lt;/span>
+ &lt;span class="lyric-line">Yes, I told them all about you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I told the moon and every little star that shines above&lt;/span>
+ &lt;span class="lyric-line">About the way you roll your pretty eyes and how you love&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Each little honeybee&lt;/span>
+ &lt;span class="lyric-line">Knows there&amp;#39;s gonna be&lt;/span>
+ &lt;span class="lyric-line">A honeymoon for two&lt;/span>
+ &lt;span class="lyric-line">Yes, I told them all about you&lt;/span>
+&lt;/div></description></item><item><title>Send Me the Pillow That You Dream On</title><link>https://lyrics.opmorgan.com/songs/pillow/</link><pubDate>Sun, 15 Nov 2026 03:19:00 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/pillow/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">Don&amp;#39;t you know that I still care for you?&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Each night while I&amp;#39;m sleeping oh, so lonely&lt;/span>
+ &lt;span class="lyric-line">I&amp;#39;ll share your love in dreams that once were true&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">Maybe time will let our dreams come true&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">I&amp;#39;ve waited so long for you to write me&lt;/span>
+ &lt;span class="lyric-line">But just a memory&amp;#39;s all that&amp;#39;s left of you&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
+ &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
+&lt;/div></description></item><item><title>I'm Thinking Tonight of My Blue Eyes</title><link>https://lyrics.opmorgan.com/songs/blue-eyes/</link><pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/blue-eyes/</guid><description>&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">‘Twould been better for us both had we never&lt;/span>
+ &lt;span class="lyric-line">In this wide and wicked world had never met,&lt;/span>
+ &lt;span class="lyric-line">But the pleasure we both seemed to gather&lt;/span>
+ &lt;span class="lyric-line">I’m sure, love, I never will forget&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Oh, I’m thinking tonight of my blue eyes&lt;/span>
+ &lt;span class="lyric-line">Who is sailing far over the sea&lt;/span>
+ &lt;span class="lyric-line">I’m thinking tonight of him only&lt;/span>
+ &lt;span class="lyric-line">And I wonder if he ever thinks of me&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">Oh, you told me once, dear, that you loved me;&lt;/span>
+ &lt;span class="lyric-line">You vowed that we never would part&lt;/span>
+ &lt;span class="lyric-line">But a link in the chain has been broken&lt;/span>
+ &lt;span class="lyric-line">Leaving me with a sad and aching heart&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">When the cold, cold grave shall enclose me&lt;/span>
+ &lt;span class="lyric-line">Will you come near and shed just one tear?&lt;/span>
+ &lt;span class="lyric-line">Will you say to the strangers around you&lt;/span>
+ &lt;span class="lyric-line">A poor heart you have broken lies here?&lt;/span>
+&lt;/div></description></item><item><title>Sweet Little Mitch</title><link>https://lyrics.opmorgan.com/songs/sweet-lil-mitch/</link><pubDate>Sat, 14 Nov 2026 12:55:57 -0500</pubDate><guid>https://lyrics.opmorgan.com/songs/sweet-lil-mitch/</guid><description>&lt;div class="lyrics-block chorus">
+ &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
+ &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
+ &lt;span class="lyric-line">Where, oh, where, is sweet little Mitch?&lt;/span>
+ &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block verse">
+ &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
+ &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
+ &lt;span class="lyric-line">He&amp;#39;s probably in the park, paddling his pickle,&lt;/span>
+ &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
+&lt;/div>
+
+&lt;div class="lyrics-block postchorus">
+ &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
+ &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
+ &lt;span class="lyric-line">Come on boys, let&amp;#39;s go find him&lt;/span>
+ &lt;span class="lyric-line">Way down yonder in the paw-paw patch!&lt;/span>
+&lt;/div></description></item></channel></rss>

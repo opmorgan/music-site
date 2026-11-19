@@ -1,0 +1,39 @@
+---
+title: "Hard Times Come Again No More"
+date: 2026-11-19T00:00:00-05:00
+draft: false
+source: ""
+as performed by: ""
+added by: ""
+notes: ""
+tags:
+- learn
+---
+
+{{< lyric verse >}}
+Let us pause in life's pleasures and count its many tears
+While we all sup sorrow with the poor
+There's a song that will linger forever in our ears
+Oh, hard times, come again no more
+{{< /lyric >}}
+
+{{< lyric chorus >}}
+'Tis the song, the sigh of the weary
+Hard times, hard times, come again no more
+Many days you have lingered around my cabin door
+Oh, hard times, come again no more
+{{< /lyric >}}
+
+{{< lyric verse >}}
+While we seek mirth and beauty and music, light and gay
+There are frail forms fainting at the door
+Though their voices are silent, their pleading looks will say
+Oh, hard times, come again no more
+{{< /lyric >}}
+
+{{< lyric verse >}}
+There's a pale weeping maiden who toils her life away
+With a worn heart whose better days are o'er
+Though her voice would be merry, 'tis sighing all the day
+Oh, hard times come again no more
+{{< /lyric >}}
