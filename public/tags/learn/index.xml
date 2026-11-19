@@ -1,39 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Songs to learn on Lyrics</title><link>https://example.org/tags/learn/</link><description>Recent content in Songs to learn on Lyrics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/tags/learn/index.xml" rel="self" type="application/rss+xml"/><item><title>Send Me the Pillow That You Dream On</title><link>https://example.org/songs/pillow/</link><pubDate>Sun, 15 Nov 2026 03:19:00 -0500</pubDate><guid>https://example.org/songs/pillow/</guid><description>&lt;div class="lyrics-block verse">
- &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
- &lt;span class="lyric-line">Don&amp;#39;t you know that I still care for you?&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block chorus">
- &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
- &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block verse">
- &lt;span class="lyric-line">Each night while I&amp;#39;m sleeping oh, so lonely&lt;/span>
- &lt;span class="lyric-line">I&amp;#39;ll share your love in dreams that once were true&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block chorus">
- &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
- &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block verse">
- &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
- &lt;span class="lyric-line">Maybe time will let our dreams come true&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block chorus">
- &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
- &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block verse">
- &lt;span class="lyric-line">I&amp;#39;ve waited so long for you to write me&lt;/span>
- &lt;span class="lyric-line">But just a memory&amp;#39;s all that&amp;#39;s left of you&lt;/span>
-&lt;/div>
-
-&lt;div class="lyrics-block chorus">
- &lt;span class="lyric-line">Send me the pillow that you dream on&lt;/span>
- &lt;span class="lyric-line">So darling, I can dream on it, too&lt;/span>
-&lt;/div></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Songs to learn on Lyrics</title>
+    <link>http://localhost:1313/tags/learn/</link>
+    <description>Recent content in Songs to learn on Lyrics</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Send Me the Pillow That You Dream On</title>
+      <link>http://localhost:1313/songs/pillow/</link>
+      <pubDate>Sun, 15 Nov 2026 03:19:00 -0500</pubDate>
+      <guid>http://localhost:1313/songs/pillow/</guid>
+      <description>&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Don&amp;#39;t you know that I still care for you?&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Each night while I&amp;#39;m sleeping oh, so lonely&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ll share your love in dreams that once were true&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Maybe time will let our dreams come true&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block verse&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;I&amp;#39;ve waited so long for you to write me&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;But just a memory&amp;#39;s all that&amp;#39;s left of you&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;lyrics-block chorus&#34;&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;Send me the pillow that you dream on&lt;/span&gt;&#xA;  &lt;span class=&#34;lyric-line&#34;&gt;So darling, I can dream on it, too&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
