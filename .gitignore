@@ -1,4 +1,6 @@
 .env
+.env.dev
+.env*
 secrets.txt
 .DS_Store
 node_modules

@@ -6,10 +6,17 @@
   --text-black: #111111;
   --text-light-gray: #777777;
   --text-red: #A11212;
+  --font: "EB Garamond", "Sorts Mill Goudy","Cormorant Garamond", serif;
 }
+
+
 
 html {
   font-size: 18px;
+}
+
+html, body {
+  overflow-x: hidden;
 }
 
 body {
@@ -17,8 +24,9 @@ body {
   background-color: var(--background);
   line-height: 1.5;
   margin: 0 auto;
-  font-family: "Cormorant Garamond", Georgia, serif;
+  font-family: var(--font);
   font-size: 18px;
+  font-weight: 400;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -39,7 +47,15 @@ body > footer {
 }
 
 body > main {
+  box-sizing: border-box;
   flex: 1;
+  width: 100%;
+  max-width: 500px;
+  min-width: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 body > footer {
@@ -70,7 +86,7 @@ body > footer p {
 body > main,
 body > footer > * {
   box-sizing: border-box;
-  max-width: 500px;
+  max-width: min(500px, 100%);
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
@@ -100,34 +116,7 @@ a:hover {
     text-underline-offset: 2px;
 }
 
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  src: url("/fonts/CormorantGaramond/CormorantGaramond-Regular.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-  src: url("/fonts/CormorantGaramond/CormorantGaramond-Italic.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-  src: url("/fonts/CormorantGaramond/CormorantGaramond-Medium.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Cormorant Garamond";
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-  src: url("/fonts/CormorantGaramond/CormorantGaramond-SemiBold.ttf") format("truetype");
-}
+
 
 h1 { font-size: 1.6rem; }
 h2 { font-size: 1.2rem; }
@@ -175,7 +164,7 @@ h2 { font-size: 1.2rem; }
 /* ---------- Compact Pagefind input ---------- */
 /* ---------- Pagefind searchbox ---------- */
 .nav-search {
-  --pf-font: "Cormorant Garamond", Georgia, serif;
+  --pf-font: var(--font);
   --pf-text: var(--text-black);
   --pf-text-secondary: var(--text-light-gray);
   --pf-text-muted: var(--text-light-gray);
@@ -242,14 +231,22 @@ h2 { font-size: 1.2rem; }
 
 
 /* ---------- Mobile ---------- */
-@media (min-width: 561px) {
+/* @media (min-width: 501px) {
   body > main,
   body > footer > * {
     min-width: 500px;
   }
-}
+} */
 
-@media (max-width: 560px) {
+@media (max-width: 500px) {
+  body > main,
+  body > footer > * {
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
   .navbar { gap: 0.75rem; position: relative; }
   .menu-button-container {
     display: block;
@@ -341,3 +338,76 @@ h2 { font-size: 1.2rem; }
   font-style: italic;
   color: var(--text-light-gray);
 }
+
+/* @font-face {
+  font-family: "Sorts Mill Goudy";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/SortsMillGoudy/SortsMillGoudy-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Sorts Mill Goudy";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("/fonts/SortsMillGoudy/SortsMillGoudy-Italic.ttf") format("truetype");
+} */
+
+@font-face {
+  font-family: "EB Garamond";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/EBGaramond/static/EBGaramond-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("/fonts/EBGaramond/static/EBGaramond-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/EBGaramond/static/EBGaramond-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/EBGaramond/static/EBGaramond-SemiBold.ttf") format("truetype");
+}
+
+/* @font-face {
+  font-family: "Cormorant Garamond";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/CormorantGaramond/CormorantGaramond-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("/fonts/CormorantGaramond/CormorantGaramond-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/CormorantGaramond/CormorantGaramond-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("/fonts/CormorantGaramond/CormorantGaramond-SemiBold.ttf") format("truetype");
+} */
