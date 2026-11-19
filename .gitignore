@@ -1,2 +1,8 @@
 .env
 secrets.txt
+.DS_Store
+node_modules
+dist
+tmp
+/public
+/resources
