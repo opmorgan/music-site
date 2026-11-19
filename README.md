@@ -35,13 +35,22 @@ ssh USER@SERVER
 ```
 
 Give your user root ownership of the target folder:
-
+```bash
+sudo chown -R USER:USER /var/www/lyrics-site
+ls -ld /var/www/lyrics-site
+```
 
 Finally, build the site locally and copy to the server with rsync:
 ```bash
+set -a && source .env && set +a
 hugo --cleanDestinationDir --minify
 npx pagefind --site public
-rsync -av --delete public/ user@server:/var/www/lyrics-site/
+rsync -av --delete public/ "${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}/"
+```
+
+Or use the script:
+```bash
+./deploy.sh
 ```
 
 (Make sure the nginx is set to serve the site from that folder)
